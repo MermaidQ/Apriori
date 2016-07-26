@@ -1,0 +1,1750 @@
+*****1项集包含35项*****
+(age,2) 0.39991152 0.10232301
+(age,4) 0.18889627 0.09836066
+(age,3) 0.2660916 0.10224439
+(age,1) 0.10572882 0.15062761
+(job,services) 0.09223623 0.0911271
+(job,management) 0.21433312 0.13519092
+(job,blue-collar) 0.20924574 0.07293869
+(job,technician) 0.16987392 0.108072914
+(job,admin.) 0.10572882 0.12133891
+(job,retired) 0.0508737 0.2347826
+(marital,married) 0.61866844 0.09903468
+(marital,single) 0.26454324 0.1396321
+(marital,divorced) 0.11678832 0.14583333
+(education,primary) 0.14996682 0.09439528
+(education,secondary) 0.5100641 0.10624458
+(education,tertiary) 0.29860651 0.14296296
+(credit,no) 0.9831896 0.1151856
+(balance,2) 0.13138686 0.13468014
+(balance,1) 0.5914621 0.10059836
+(balance,0) 0.08095554 0.08469945
+(balance,3) 0.05927892 0.19402985
+(housing,no) 0.43397477 0.15341489
+(housing,yes) 0.5660252 0.08597108
+(loan,no) 0.8471577 0.12480418
+(loan,yes) 0.1528423 0.062228654
+(duration,2) 0.15151516 0.018978102
+(duration,5) 0.11037381 0.09418838
+(duration,4) 0.13227162 0.051839463
+(duration,3) 0.16788322 0.031620555
+(duration,7) 0.0530856 0.14583333
+(duration,6) 0.07542579 0.14076246
+(duration,9) 0.1855784 0.340882
+(duration,1) 0.08250387 0.0026809652
+(poutcome,unknown) 0.81950897 0.09095816
+(poutcome,failure) 0.108383104 0.12857144
+*****2项集包含220项*****
+(age,2) (job,management) 0.09820836 0.13963965
+(age,2) (job,blue-collar) 0.08737005 0.070886075
+(age,2) (job,technician) 0.08029197 0.101928376
+(age,2) (marital,married) 0.22627737 0.09481916
+(age,2) (marital,single) 0.13979208 0.10917722
+(age,2) (education,secondary) 0.20968813 0.080168776
+(age,2) (education,tertiary) 0.14576422 0.14415781
+(age,2) (credit,no) 0.3937182 0.10168539
+(balance,2) (age,2) 0.05286441 0.10460251
+(balance,1) (age,2) 0.24684805 0.09050179
+(housing,no) (age,2) 0.14554302 0.13069908
+(housing,yes) (age,2) 0.2543685 0.08608696
+(age,2) (loan,no) 0.33996904 0.11255693
+(age,2) (loan,yes) 0.05994249 0.044280443
+(duration,2) (age,2) 0.05286441 0.016736401
+(duration,4) (age,2) 0.05551869 0.05179283
+(duration,3) (age,2) 0.06812652 0.022727273
+(duration,9) (age,2) 0.07808007 0.30878186
+(poutcome,unknown) (age,2) 0.32404336 0.08259386
+(age,4) (marital,married) 0.14443707 0.08728943
+(age,4) (education,secondary) 0.08471577 0.10443864
+(age,4) (credit,no) 0.1857996 0.09761905
+(balance,1) (age,4) 0.10771953 0.08008213
+(housing,no) (age,4) 0.10572882 0.12343096
+(housing,yes) (age,4) 0.08316744 0.06648936
+(age,4) (loan,no) 0.15350586 0.10951009
+(poutcome,unknown) (age,4) 0.15748729 0.06741573
+(age,3) (job,management) 0.05950011 0.13011153
+(age,3) (job,blue-collar) 0.063039154 0.077192985
+(age,3) (marital,married) 0.18889627 0.085480094
+(age,3) (education,secondary) 0.13470471 0.11494253
+(age,3) (education,tertiary) 0.0707808 0.109375
+(age,3) (credit,no) 0.2610042 0.10169491
+(balance,1) (age,3) 0.14687017 0.0813253
+(housing,no) (age,3) 0.105507635 0.123689726
+(housing,yes) (age,3) 0.16058394 0.08815427
+(age,3) (loan,no) 0.22539261 0.10696761
+(poutcome,unknown) (age,3) 0.22295952 0.083333336
+(age,1) (marital,single) 0.07431984 0.17857143
+(age,1) (education,secondary) 0.06657819 0.13621262
+(age,1) (credit,no) 0.10329573 0.1541756
+(balance,1) (age,1) 0.06879009 0.15434083
+(housing,yes) (age,1) 0.06237558 0.088652484
+(age,1) (loan,no) 0.0906879 0.15609756
+(poutcome,unknown) (age,1) 0.08692767 0.117048346
+(job,services) (marital,married) 0.05220084 0.06779661
+(job,services) (education,secondary) 0.08029197 0.08815427
+(job,services) (credit,no) 0.0906879 0.09268293
+(balance,1) (job,services) 0.05618226 0.09055118
+(housing,yes) (job,services) 0.063039154 0.07017544
+(job,services) (loan,no) 0.075868174 0.10495627
+(poutcome,unknown) (job,services) 0.07852245 0.06760564
+(job,management) (marital,married) 0.12320283 0.13824058
+(job,management) (marital,single) 0.064808674 0.14334472
+(job,management) (education,tertiary) 0.17407653 0.14358322
+(job,management) (credit,no) 0.21123645 0.13717277
+(balance,1) (job,management) 0.11789427 0.110694185
+(housing,no) (job,management) 0.10307454 0.15665236
+(housing,yes) (job,management) 0.111258574 0.11530815
+(job,management) (loan,no) 0.18779032 0.14369847
+(poutcome,unknown) (job,management) 0.17319177 0.10344828
+(job,blue-collar) (marital,married) 0.15328467 0.05050505
+(job,blue-collar) (education,primary) 0.08161911 0.043360434
+(job,blue-collar) (education,secondary) 0.115903564 0.09351145
+(job,blue-collar) (credit,no) 0.20614909 0.069742486
+(balance,1) (job,blue-collar) 0.12430878 0.05871886
+(housing,no) (job,blue-collar) 0.05551869 0.09163347
+(housing,yes) (job,blue-collar) 0.15372705 0.066187054
+(job,blue-collar) (loan,no) 0.1747401 0.0721519
+(poutcome,unknown) (job,blue-collar) 0.17562486 0.065491185
+(job,technician) (marital,married) 0.09090909 0.10218978
+(job,technician) (marital,single) 0.05927892 0.12313433
+(job,technician) (education,secondary) 0.1150188 0.10576923
+(job,technician) (credit,no) 0.16655608 0.1062417
+(balance,1) (job,technician) 0.103738114 0.08742005
+(housing,no) (job,technician) 0.07608936 0.13662791
+(housing,yes) (job,technician) 0.09378456 0.08490566
+(job,technician) (loan,no) 0.14355232 0.118644066
+(poutcome,unknown) (job,technician) 0.13868614 0.08293461
+(job,admin.) (marital,married) 0.058836542 0.116541356
+(job,admin.) (education,secondary) 0.08692767 0.122137405
+(job,admin.) (credit,no) 0.10440168 0.12288135
+(balance,1) (job,admin.) 0.06392391 0.121107265
+(housing,yes) (job,admin.) 0.06679938 0.09933775
+(job,admin.) (loan,no) 0.08560053 0.12919897
+(poutcome,unknown) (job,admin.) 0.0818403 0.08378378
+(job,retired) (credit,no) 0.05021013 0.23788546
+(education,primary) (marital,married) 0.11634594 0.07794677
+(education,secondary) (marital,married) 0.31563812 0.0889979
+(education,tertiary) (marital,married) 0.16080514 0.130674
+(credit,no) (marital,married) 0.6107056 0.09923941
+(balance,2) (marital,married) 0.0818403 0.13243243
+(balance,1) (marital,married) 0.36208802 0.083689675
+(housing,no) (marital,married) 0.2592347 0.13225256
+(housing,yes) (marital,married) 0.35943374 0.07507692
+(loan,no) (marital,married) 0.5184694 0.10793515
+(loan,yes) (marital,married) 0.10019907 0.052980132
+(duration,2) (marital,married) 0.094448134 0.014051522
+(duration,5) (marital,married) 0.07387746 0.098802395
+(duration,4) (marital,married) 0.083388634 0.04774536
+(duration,3) (marital,married) 0.10440168 0.021186441
+(duration,9) (marital,married) 0.10948905 0.2929293
+(duration,1) (marital,married) 0.05021013 0.0
+(poutcome,unknown) (marital,married) 0.50984293 0.07375271
+(poutcome,failure) (marital,married) 0.06591462 0.11409396
+(education,secondary) (marital,single) 0.13470471 0.13300492
+(education,tertiary) (marital,single) 0.10351692 0.16025642
+(credit,no) (marital,single) 0.25967705 0.13969335
+(balance,1) (marital,single) 0.15837204 0.12849163
+(housing,no) (marital,single) 0.1238664 0.18035714
+(housing,yes) (marital,single) 0.14067684 0.10377359
+(loan,no) (marital,single) 0.23180713 0.14790076
+(duration,9) (marital,single) 0.05264322 0.394958
+(poutcome,unknown) (marital,single) 0.21167883 0.11598746
+(education,secondary) (marital,divorced) 0.059721302 0.13703704
+(credit,no) (marital,divorced) 0.1128069 0.14509805
+(balance,1) (marital,divorced) 0.07100199 0.124610595
+(housing,no) (marital,divorced) 0.0508737 0.19565217
+(housing,yes) (marital,divorced) 0.06591462 0.10738255
+(loan,no) (marital,divorced) 0.09688122 0.15981735
+(poutcome,unknown) (marital,divorced) 0.09798717 0.12641084
+(credit,no) (education,primary) 0.14775492 0.09431138
+(balance,1) (education,primary) 0.09046671 0.083129585
+(housing,no) (education,primary) 0.06525105 0.13559322
+(housing,yes) (education,primary) 0.08471577 0.06266318
+(education,primary) (loan,no) 0.12917496 0.10273973
+(poutcome,unknown) (education,primary) 0.1282902 0.08275862
+(credit,no) (education,secondary) 0.4998894 0.105752215
+(balance,2) (education,secondary) 0.06547224 0.11486486
+(balance,1) (education,secondary) 0.3076753 0.095614664
+(balance,0) (education,secondary) 0.050431322 0.0877193
+(housing,no) (education,secondary) 0.19376244 0.15182649
+(housing,yes) (education,secondary) 0.3163017 0.07832168
+(education,secondary) (loan,no) 0.4180491 0.11587302
+(education,secondary) (loan,yes) 0.09201504 0.0625
+(duration,2) (education,secondary) 0.07476222 0.01183432
+(duration,5) (education,secondary) 0.057951782 0.06870229
+(duration,4) (education,secondary) 0.066357 0.06
+(duration,3) (education,secondary) 0.08029197 0.024793388
+(duration,9) (education,secondary) 0.09931431 0.311804
+(poutcome,unknown) (education,secondary) 0.4182703 0.08249603
+(poutcome,failure) (education,secondary) 0.05596107 0.13833992
+(credit,no) (education,tertiary) 0.29484627 0.14403601
+(balance,1) (education,tertiary) 0.16921034 0.1254902
+(housing,no) (education,tertiary) 0.15195753 0.16593887
+(housing,yes) (education,tertiary) 0.14664897 0.119155355
+(education,tertiary) (loan,no) 0.26011944 0.15306123
+(duration,3) (education,tertiary) 0.0552975 0.044
+(duration,9) (education,tertiary) 0.05242203 0.4177215
+(poutcome,unknown) (education,tertiary) 0.23976997 0.11254612
+(balance,2) (credit,no) 0.13116567 0.13322091
+(balance,1) (credit,no) 0.58438396 0.1003028
+(balance,0) (credit,no) 0.07144437 0.083591335
+(balance,3) (credit,no) 0.05927892 0.19402985
+(housing,no) (credit,no) 0.42711788 0.15277058
+(housing,yes) (credit,no) 0.55607164 0.08631663
+(credit,no) (loan,no) 0.835877 0.12463614
+(credit,no) (loan,yes) 0.14731254 0.061561562
+(duration,2) (credit,no) 0.14863968 0.019345239
+(duration,5) (credit,no) 0.10860429 0.09572301
+(duration,4) (credit,no) 0.12939616 0.052991454
+(duration,3) (credit,no) 0.16434418 0.03230148
+(duration,7) (credit,no) 0.0530856 0.14583333
+(duration,6) (credit,no) 0.07476222 0.14201184
+(duration,9) (credit,no) 0.18248175 0.33575758
+(duration,1) (credit,no) 0.08117673 0.0027247956
+(poutcome,unknown) (credit,no) 0.80380446 0.090533845
+(poutcome,failure) (credit,no) 0.10816191 0.12883435
+(balance,2) (housing,no) 0.05175846 0.20940171
+(balance,2) (housing,yes) 0.0796284 0.08611111
+(balance,2) (loan,no) 0.11612475 0.14095238
+(balance,2) (poutcome,unknown) 0.10462287 0.09936575
+(balance,1) (housing,no) 0.26410085 0.1323283
+(balance,1) (housing,yes) 0.3273612 0.075
+(balance,1) (loan,no) 0.49679273 0.11086376
+(balance,1) (loan,yes) 0.09466932 0.046728972
+(balance,1) (duration,2) 0.099093124 0.020089285
+(balance,1) (duration,5) 0.06326034 0.06993007
+(balance,1) (duration,4) 0.07542579 0.04105572
+(balance,1) (duration,3) 0.10506525 0.02736842
+(balance,1) (duration,9) 0.1061712 0.32291666
+(balance,1) (poutcome,unknown) 0.486618 0.08227273
+(balance,1) (poutcome,failure) 0.0641451 0.11034483
+(balance,0) (housing,yes) 0.05861535 0.086792454
+(balance,0) (loan,no) 0.05817297 0.07224335
+(balance,0) (poutcome,unknown) 0.07144437 0.071207434
+(balance,3) (loan,no) 0.05286441 0.21338913
+(housing,no) (loan,no) 0.37093562 0.16875373
+(housing,no) (loan,yes) 0.063039154 0.06315789
+(duration,2) (housing,no) 0.06724176 0.032894738
+(duration,4) (housing,no) 0.05352798 0.08677686
+(duration,3) (housing,no) 0.07896483 0.04761905
+(duration,9) (housing,no) 0.0774165 0.40571427
+(housing,no) (poutcome,unknown) 0.3676178 0.11672684
+(housing,yes) (loan,no) 0.47622207 0.0905713
+(housing,yes) (loan,yes) 0.089803144 0.061576355
+(duration,2) (housing,yes) 0.08427339 0.007874016
+(duration,5) (housing,yes) 0.06502986 0.06122449
+(duration,4) (housing,yes) 0.078743644 0.028089888
+(duration,3) (housing,yes) 0.08891838 0.017412934
+(duration,9) (housing,yes) 0.10816191 0.29447854
+(housing,yes) (poutcome,unknown) 0.45189118 0.069995105
+(housing,yes) (poutcome,failure) 0.075868174 0.10495627
+(duration,2) (loan,no) 0.12541473 0.02116402
+(duration,5) (loan,no) 0.09599646 0.108294934
+(duration,4) (loan,no) 0.10749834 0.059670784
+(duration,3) (loan,no) 0.14355232 0.035439137
+(duration,6) (loan,no) 0.064808674 0.1569966
+(duration,9) (loan,no) 0.15660252 0.3559322
+(duration,1) (loan,no) 0.0707808 0.003125
+(poutcome,unknown) (loan,no) 0.6885645 0.09861869
+(poutcome,failure) (loan,no) 0.09312099 0.14014252
+(poutcome,unknown) (loan,yes) 0.13094448 0.050675675
+(duration,2) (poutcome,unknown) 0.12961735 0.018771332
+(duration,5) (poutcome,unknown) 0.088033624 0.0678392
+(duration,4) (poutcome,unknown) 0.10639239 0.027027028
+(duration,3) (poutcome,unknown) 0.1391285 0.023847377
+(duration,6) (poutcome,unknown) 0.06016368 0.0625
+(duration,9) (poutcome,unknown) 0.14930326 0.3125926
+(duration,1) (poutcome,unknown) 0.06989604 0.0
+*****3项集包含527项*****
+(age,2) (job,management) (marital,married) 0.05131608 0.1724138
+(age,2) (job,management) (education,tertiary) 0.08560053 0.1498708
+(age,2) (job,management) (credit,no) 0.09710241 0.14123006
+(balance,1) (age,2) (job,management) 0.05684583 0.12062257
+(housing,yes) (age,2) (job,management) 0.0575094 0.12307692
+(age,2) (job,management) (loan,no) 0.08825481 0.14786968
+(poutcome,unknown) (age,2) (job,management) 0.0774165 0.108571425
+(age,2) (job,blue-collar) (marital,married) 0.06038487 0.054945055
+(age,2) (job,blue-collar) (education,secondary) 0.0575094 0.08076923
+(age,2) (job,blue-collar) (credit,no) 0.08648529 0.06649616
+(balance,1) (age,2) (job,blue-collar) 0.05463393 0.060728744
+(housing,yes) (age,2) (job,blue-collar) 0.069453664 0.070063695
+(age,2) (job,blue-collar) (loan,no) 0.07210794 0.0797546
+(poutcome,unknown) (age,2) (job,blue-collar) 0.072329134 0.070336394
+(age,2) (job,technician) (education,secondary) 0.05153727 0.08583691
+(age,2) (job,technician) (credit,no) 0.07830126 0.098870054
+(age,2) (job,technician) (loan,no) 0.06812652 0.11363637
+(poutcome,unknown) (age,2) (job,technician) 0.06392391 0.07958478
+(age,2) (education,secondary) (marital,married) 0.1216545 0.06727273
+(age,2) (education,tertiary) (marital,married) 0.07277151 0.15805471
+(age,2) (credit,no) (marital,married) 0.22406547 0.09476802
+(balance,1) (age,2) (marital,married) 0.13868614 0.07655502
+(housing,no) (age,2) (marital,married) 0.07122318 0.12732919
+(housing,yes) (age,2) (marital,married) 0.1550542 0.07988588
+(age,2) (loan,no) (marital,married) 0.18779032 0.10600707
+(poutcome,unknown) (age,2) (marital,married) 0.1838089 0.06738869
+(age,2) (education,secondary) (marital,single) 0.06702057 0.10231023
+(age,2) (education,tertiary) (marital,single) 0.06281796 0.12676056
+(age,2) (credit,no) (marital,single) 0.1371378 0.10806452
+(balance,1) (age,2) (marital,single) 0.08582172 0.10309278
+(housing,no) (age,2) (marital,single) 0.0619332 0.13571429
+(housing,yes) (age,2) (marital,single) 0.07785888 0.08806818
+(age,2) (loan,no) (marital,single) 0.12342402 0.11648746
+(poutcome,unknown) (age,2) (marital,single) 0.11170095 0.102970295
+(age,2) (credit,no) (education,secondary) 0.2057067 0.07849462
+(balance,1) (age,2) (education,secondary) 0.13094448 0.074324325
+(housing,no) (age,2) (education,secondary) 0.06348153 0.101045296
+(housing,yes) (age,2) (education,secondary) 0.14620659 0.071104385
+(age,2) (education,secondary) (loan,no) 0.17164344 0.09020618
+(poutcome,unknown) (age,2) (education,secondary) 0.17031631 0.062337663
+(age,2) (credit,no) (education,tertiary) 0.14399469 0.14439324
+(balance,1) (age,2) (education,tertiary) 0.08604291 0.1311054
+(housing,no) (age,2) (education,tertiary) 0.06746295 0.16393442
+(housing,yes) (age,2) (education,tertiary) 0.07830126 0.12711865
+(age,2) (education,tertiary) (loan,no) 0.12873258 0.15292096
+(poutcome,unknown) (age,2) (education,tertiary) 0.11568237 0.12045889
+(balance,2) (age,2) (credit,no) 0.05286441 0.10460251
+(balance,1) (age,2) (credit,no) 0.24308781 0.089171976
+(housing,no) (age,2) (credit,no) 0.14288874 0.13003096
+(housing,yes) (age,2) (credit,no) 0.25082946 0.08553792
+(age,2) (credit,no) (loan,no) 0.33576643 0.111330695
+(age,2) (credit,no) (loan,yes) 0.057951782 0.045801528
+(duration,2) (age,2) (credit,no) 0.05197965 0.017021276
+(duration,4) (age,2) (credit,no) 0.05441274 0.05284553
+(duration,3) (age,2) (credit,no) 0.066357 0.023333333
+(duration,9) (age,2) (credit,no) 0.07719531 0.3008596
+(poutcome,unknown) (age,2) (credit,no) 0.3182924 0.08200139
+(balance,1) (housing,no) (age,2) 0.09466932 0.10981309
+(balance,1) (housing,yes) (age,2) 0.15217872 0.07848837
+(balance,1) (age,2) (loan,no) 0.20703384 0.102564104
+(balance,1) (poutcome,unknown) (age,2) 0.2012829 0.07582418
+(housing,no) (age,2) (loan,no) 0.12629949 0.1436077
+(housing,no) (poutcome,unknown) (age,2) 0.12430878 0.09608541
+(housing,yes) (age,2) (loan,no) 0.21366954 0.0942029
+(duration,9) (housing,yes) (age,2) 0.05485512 0.2782258
+(housing,yes) (poutcome,unknown) (age,2) 0.19973457 0.07419712
+(duration,3) (age,2) (loan,no) 0.05927892 0.02238806
+(duration,9) (age,2) (loan,no) 0.06547224 0.33783785
+(poutcome,unknown) (age,2) (loan,no) 0.27294847 0.09157212
+(poutcome,unknown) (age,2) (loan,yes) 0.05109489 0.034632035
+(duration,3) (poutcome,unknown) (age,2) 0.05684583 0.019455252
+(duration,9) (poutcome,unknown) (age,2) 0.063039154 0.2877193
+(age,4) (education,secondary) (marital,married) 0.06569343 0.08754209
+(age,4) (credit,no) (marital,married) 0.14288874 0.086687304
+(balance,1) (age,4) (marital,married) 0.08316744 0.07446808
+(housing,no) (age,4) (marital,married) 0.08449458 0.11256544
+(housing,yes) (age,4) (marital,married) 0.05994249 0.051660515
+(age,4) (loan,no) (marital,married) 0.117673084 0.09774436
+(poutcome,unknown) (age,4) (marital,married) 0.12032736 0.05882353
+(age,4) (credit,no) (education,secondary) 0.08272506 0.10427807
+(balance,1) (age,4) (education,secondary) 0.05175846 0.08547009
+(age,4) (education,secondary) (loan,no) 0.06569343 0.124579124
+(poutcome,unknown) (age,4) (education,secondary) 0.06901128 0.060897436
+(balance,1) (age,4) (credit,no) 0.106613584 0.080912866
+(housing,no) (age,4) (credit,no) 0.10418049 0.12101911
+(housing,yes) (age,4) (credit,no) 0.08161911 0.06775068
+(age,4) (credit,no) (loan,no) 0.15173635 0.10787172
+(poutcome,unknown) (age,4) (credit,no) 0.154833 0.065714285
+(balance,1) (housing,no) (age,4) 0.06259677 0.09540636
+(balance,1) (age,4) (loan,no) 0.08714886 0.09137056
+(balance,1) (poutcome,unknown) (age,4) 0.08869719 0.052369077
+(housing,no) (age,4) (loan,no) 0.08294625 0.14666666
+(housing,no) (poutcome,unknown) (age,4) 0.09157266 0.082125604
+(housing,yes) (age,4) (loan,no) 0.07055961 0.06583072
+(housing,yes) (poutcome,unknown) (age,4) 0.06591462 0.046979867
+(poutcome,unknown) (age,4) (loan,no) 0.12629949 0.073555164
+(age,3) (job,management) (credit,no) 0.05861535 0.13207547
+(age,3) (job,management) (loan,no) 0.05220084 0.13983051
+(age,3) (job,blue-collar) (marital,married) 0.05153727 0.051502146
+(age,3) (job,blue-collar) (credit,no) 0.06149082 0.07194245
+(age,3) (job,blue-collar) (loan,no) 0.05242203 0.067510545
+(poutcome,unknown) (age,3) (job,blue-collar) 0.05220084 0.059322033
+(age,3) (education,secondary) (marital,married) 0.09688122 0.10273973
+(age,3) (credit,no) (marital,married) 0.1857996 0.08571429
+(balance,1) (age,3) (marital,married) 0.10418049 0.072186835
+(housing,no) (age,3) (marital,married) 0.07188675 0.10461538
+(housing,yes) (age,3) (marital,married) 0.11700951 0.07372401
+(age,3) (loan,no) (marital,married) 0.159478 0.09015257
+(poutcome,unknown) (age,3) (marital,married) 0.16036275 0.06896552
+(age,3) (credit,no) (education,secondary) 0.13205042 0.113902844
+(balance,1) (age,3) (education,secondary) 0.07387746 0.10778443
+(housing,yes) (age,3) (education,secondary) 0.088033624 0.09547739
+(age,3) (education,secondary) (loan,no) 0.110595 0.118
+(poutcome,unknown) (age,3) (education,secondary) 0.11236452 0.08858268
+(age,3) (credit,no) (education,tertiary) 0.07011723 0.110410094
+(age,3) (education,tertiary) (loan,no) 0.063039154 0.11578947
+(poutcome,unknown) (age,3) (education,tertiary) 0.05905773 0.086142324
+(balance,1) (age,3) (credit,no) 0.14510064 0.08079268
+(housing,no) (age,3) (credit,no) 0.10351692 0.12179487
+(housing,yes) (age,3) (credit,no) 0.15748729 0.08848315
+(age,3) (credit,no) (loan,no) 0.22207476 0.107569724
+(poutcome,unknown) (age,3) (credit,no) 0.21809334 0.0821501
+(balance,1) (housing,no) (age,3) 0.06016368 0.0992647
+(balance,1) (housing,yes) (age,3) 0.08670648 0.06887755
+(balance,1) (age,3) (loan,no) 0.12452997 0.08703375
+(balance,1) (poutcome,unknown) (age,3) 0.12320283 0.06822262
+(housing,no) (age,3) (loan,no) 0.09113028 0.13106796
+(housing,no) (poutcome,unknown) (age,3) 0.09356337 0.10401891
+(housing,yes) (age,3) (loan,no) 0.13426234 0.09060956
+(housing,yes) (poutcome,unknown) (age,3) 0.12939616 0.06837607
+(poutcome,unknown) (age,3) (loan,no) 0.18889627 0.08782201
+(age,1) (credit,no) (marital,single) 0.07343508 0.18072289
+(age,1) (loan,no) (marital,single) 0.06436629 0.18900344
+(poutcome,unknown) (age,1) (marital,single) 0.05994249 0.13284133
+(age,1) (credit,no) (education,secondary) 0.06502986 0.13945578
+(age,1) (education,secondary) (loan,no) 0.05640345 0.13725491
+(poutcome,unknown) (age,1) (education,secondary) 0.05596107 0.11857708
+(balance,1) (age,1) (credit,no) 0.06834771 0.1553398
+(housing,yes) (age,1) (credit,no) 0.060606062 0.091240875
+(age,1) (credit,no) (loan,no) 0.08869719 0.159601
+(poutcome,unknown) (age,1) (credit,no) 0.08449458 0.12041885
+(balance,1) (age,1) (loan,no) 0.05839416 0.1590909
+(balance,1) (poutcome,unknown) (age,1) 0.0575094 0.13076924
+(housing,yes) (age,1) (loan,no) 0.05242203 0.088607594
+(housing,yes) (poutcome,unknown) (age,1) 0.0530856 0.079166666
+(poutcome,unknown) (age,1) (loan,no) 0.07365627 0.12012012
+(job,services) (credit,no) (marital,married) 0.05131608 0.06896552
+(job,services) (credit,no) (education,secondary) 0.07896483 0.08963586
+(balance,1) (job,services) (education,secondary) 0.05065251 0.09170306
+(housing,yes) (job,services) (education,secondary) 0.05463393 0.06477733
+(job,services) (education,secondary) (loan,no) 0.06525105 0.10508475
+(poutcome,unknown) (job,services) (education,secondary) 0.06834771 0.06472492
+(balance,1) (job,services) (credit,no) 0.05596107 0.09090909
+(housing,yes) (job,services) (credit,no) 0.0619332 0.071428575
+(job,services) (credit,no) (loan,no) 0.07454103 0.10682493
+(poutcome,unknown) (job,services) (credit,no) 0.07697412 0.06896552
+(housing,yes) (job,services) (loan,no) 0.05397036 0.08196721
+(housing,yes) (poutcome,unknown) (job,services) 0.05242203 0.05907173
+(poutcome,unknown) (job,services) (loan,no) 0.06326034 0.07692308
+(job,management) (education,tertiary) (marital,married) 0.09599646 0.14516129
+(job,management) (credit,no) (marital,married) 0.12187569 0.13974592
+(balance,1) (job,management) (marital,married) 0.06259677 0.10600707
+(housing,no) (job,management) (marital,married) 0.05684583 0.14785992
+(housing,yes) (job,management) (marital,married) 0.066357 0.13
+(job,management) (loan,no) (marital,married) 0.10749834 0.14403293
+(poutcome,unknown) (job,management) (marital,married) 0.10130502 0.10043668
+(job,management) (education,tertiary) (marital,single) 0.0552975 0.156
+(job,management) (credit,no) (marital,single) 0.06348153 0.14634146
+(job,management) (loan,no) (marital,single) 0.05950011 0.15241636
+(poutcome,unknown) (job,management) (marital,single) 0.050431322 0.118421055
+(job,management) (credit,no) (education,tertiary) 0.17186463 0.14543115
+(balance,1) (job,management) (education,tertiary) 0.096217655 0.12643678
+(housing,no) (job,management) (education,tertiary) 0.08648529 0.16112532
+(housing,yes) (job,management) (education,tertiary) 0.08759124 0.12626262
+(job,management) (education,tertiary) (loan,no) 0.15195753 0.15138282
+(poutcome,unknown) (job,management) (education,tertiary) 0.13890733 0.11464968
+(balance,1) (job,management) (credit,no) 0.116567135 0.11195446
+(housing,no) (job,management) (credit,no) 0.10152621 0.15904139
+(housing,yes) (job,management) (credit,no) 0.10971024 0.116935484
+(job,management) (credit,no) (loan,no) 0.1855784 0.14541121
+(poutcome,unknown) (job,management) (credit,no) 0.17053749 0.105058365
+(balance,1) (housing,no) (job,management) 0.058836542 0.13157895
+(balance,1) (housing,yes) (job,management) 0.05905773 0.08988764
+(balance,1) (job,management) (loan,no) 0.10285335 0.12258065
+(balance,1) (poutcome,unknown) (job,management) 0.09599646 0.08294931
+(housing,no) (job,management) (loan,no) 0.09002433 0.17690417
+(housing,no) (poutcome,unknown) (job,management) 0.088033624 0.11557789
+(housing,yes) (job,management) (loan,no) 0.09776598 0.11312217
+(housing,yes) (poutcome,unknown) (job,management) 0.085158154 0.09090909
+(poutcome,unknown) (job,management) (loan,no) 0.15107277 0.10980967
+(job,blue-collar) (education,primary) (marital,married) 0.06281796 0.024647888
+(job,blue-collar) (education,secondary) (marital,married) 0.083388634 0.06896552
+(job,blue-collar) (credit,no) (marital,married) 0.15151516 0.048175182
+(balance,1) (job,blue-collar) (marital,married) 0.09179385 0.031325303
+(housing,yes) (job,blue-collar) (marital,married) 0.1150188 0.048076924
+(job,blue-collar) (loan,no) (marital,married) 0.12851138 0.051635113
+(poutcome,unknown) (job,blue-collar) (marital,married) 0.12784782 0.04152249
+(job,blue-collar) (credit,no) (education,primary) 0.08073435 0.043835618
+(housing,yes) (job,blue-collar) (education,primary) 0.05706702 0.04263566
+(job,blue-collar) (education,primary) (loan,no) 0.069453664 0.0477707
+(poutcome,unknown) (job,blue-collar) (education,primary) 0.07033842 0.040880505
+(job,blue-collar) (credit,no) (education,secondary) 0.11391285 0.08737864
+(balance,1) (job,blue-collar) (education,secondary) 0.0685689 0.08064516
+(housing,yes) (job,blue-collar) (education,secondary) 0.08936076 0.08168317
+(job,blue-collar) (education,secondary) (loan,no) 0.09378456 0.08962264
+(poutcome,unknown) (job,blue-collar) (education,secondary) 0.09533289 0.08120649
+(balance,1) (job,blue-collar) (credit,no) 0.12298164 0.055755395
+(housing,no) (job,blue-collar) (credit,no) 0.05441274 0.085365854
+(housing,yes) (job,blue-collar) (credit,no) 0.15173635 0.06413994
+(job,blue-collar) (credit,no) (loan,no) 0.1725282 0.070512824
+(poutcome,unknown) (job,blue-collar) (credit,no) 0.17274939 0.06274008
+(balance,1) (housing,yes) (job,blue-collar) 0.09002433 0.046683047
+(balance,1) (job,blue-collar) (loan,no) 0.10307454 0.055793993
+(balance,1) (poutcome,unknown) (job,blue-collar) 0.10351692 0.055555556
+(housing,yes) (job,blue-collar) (loan,no) 0.13094448 0.06925676
+(housing,yes) (poutcome,unknown) (job,blue-collar) 0.12585711 0.056239016
+(poutcome,unknown) (job,blue-collar) (loan,no) 0.14554302 0.06534954
+(job,technician) (education,secondary) (marital,married) 0.06613581 0.09364548
+(job,technician) (credit,no) (marital,married) 0.08958195 0.10123457
+(balance,1) (job,technician) (marital,married) 0.05397036 0.086065575
+(job,technician) (loan,no) (marital,married) 0.075868174 0.116618074
+(poutcome,unknown) (job,technician) (marital,married) 0.07343508 0.072289154
+(job,technician) (credit,no) (marital,single) 0.05817297 0.121673
+(job,technician) (loan,no) (marital,single) 0.05175846 0.13247864
+(job,technician) (credit,no) (education,secondary) 0.11214333 0.10453649
+(balance,1) (job,technician) (education,secondary) 0.07122318 0.08695652
+(housing,yes) (job,technician) (education,secondary) 0.06525105 0.08135593
+(job,technician) (education,secondary) (loan,no) 0.09466932 0.11448598
+(poutcome,unknown) (job,technician) (education,secondary) 0.09334218 0.08056872
+(balance,1) (job,technician) (credit,no) 0.1017474 0.08478261
+(housing,no) (job,technician) (credit,no) 0.074098654 0.13134329
+(housing,yes) (job,technician) (credit,no) 0.09245742 0.086124405
+(job,technician) (credit,no) (loan,no) 0.14111923 0.11598746
+(poutcome,unknown) (job,technician) (credit,no) 0.13536829 0.08006536
+(balance,1) (housing,yes) (job,technician) 0.05397036 0.07786885
+(balance,1) (job,technician) (loan,no) 0.08692767 0.10178117
+(balance,1) (poutcome,unknown) (job,technician) 0.08493696 0.0703125
+(housing,no) (job,technician) (loan,no) 0.06591462 0.147651
+(housing,no) (poutcome,unknown) (job,technician) 0.06569343 0.1010101
+(housing,yes) (job,technician) (loan,no) 0.07763769 0.094017096
+(housing,yes) (poutcome,unknown) (job,technician) 0.0729927 0.06666667
+(poutcome,unknown) (job,technician) (loan,no) 0.11789427 0.090056285
+(job,admin.) (credit,no) (marital,married) 0.05839416 0.11742424
+(job,admin.) (credit,no) (education,secondary) 0.08560053 0.12403101
+(balance,1) (job,admin.) (education,secondary) 0.05175846 0.12820514
+(housing,yes) (job,admin.) (education,secondary) 0.05728821 0.09266409
+(job,admin.) (education,secondary) (loan,no) 0.06967485 0.13333334
+(poutcome,unknown) (job,admin.) (education,secondary) 0.06812652 0.08766234
+(balance,1) (job,admin.) (credit,no) 0.06348153 0.12195122
+(housing,yes) (job,admin.) (credit,no) 0.06569343 0.1010101
+(job,admin.) (credit,no) (loan,no) 0.08493696 0.13020833
+(poutcome,unknown) (job,admin.) (credit,no) 0.08073435 0.08493151
+(housing,yes) (job,admin.) (loan,no) 0.05441274 0.09756097
+(housing,yes) (poutcome,unknown) (job,admin.) 0.0508737 0.069565214
+(poutcome,unknown) (job,admin.) (loan,no) 0.06502986 0.091836736
+(credit,no) (education,primary) (marital,married) 0.1150188 0.07884616
+(balance,1) (education,primary) (marital,married) 0.07144437 0.071207434
+(housing,no) (education,primary) (marital,married) 0.0508737 0.1173913
+(housing,yes) (education,primary) (marital,married) 0.06547224 0.0472973
+(education,primary) (loan,no) (marital,married) 0.09975669 0.08425721
+(poutcome,unknown) (education,primary) (marital,married) 0.09931431 0.066815145
+(credit,no) (education,secondary) (marital,married) 0.31055075 0.088319086
+(balance,1) (education,secondary) (marital,married) 0.18756913 0.08018868
+(housing,no) (education,secondary) (marital,married) 0.11214333 0.1321499
+(housing,yes) (education,secondary) (marital,married) 0.2034948 0.06521739
+(education,secondary) (loan,no) (marital,married) 0.25525326 0.09965338
+(education,secondary) (loan,yes) (marital,married) 0.06038487 0.043956045
+(duration,3) (education,secondary) (marital,married) 0.050431322 0.01754386
+(duration,9) (education,secondary) (marital,married) 0.0575094 0.2653846
+(poutcome,unknown) (education,secondary) (marital,married) 0.2592347 0.06399317
+(credit,no) (education,tertiary) (marital,married) 0.15969919 0.13157895
+(balance,1) (education,tertiary) (marital,married) 0.08825481 0.102756895
+(housing,no) (education,tertiary) (marital,married) 0.08117673 0.13896458
+(housing,yes) (education,tertiary) (marital,married) 0.0796284 0.12222222
+(education,tertiary) (loan,no) (marital,married) 0.13868614 0.13716109
+(poutcome,unknown) (education,tertiary) (marital,married) 0.13138686 0.099326596
+(balance,2) (credit,no) (marital,married) 0.0818403 0.13243243
+(balance,1) (credit,no) (marital,married) 0.3587702 0.083847106
+(housing,no) (credit,no) (marital,married) 0.25613803 0.13212435
+(housing,yes) (credit,no) (marital,married) 0.3545676 0.07548347
+(credit,no) (loan,no) (marital,married) 0.5131608 0.10818966
+(credit,no) (loan,yes) (marital,married) 0.09754479 0.052154195
+(duration,2) (credit,no) (marital,married) 0.09334218 0.014218009
+(duration,5) (credit,no) (marital,married) 0.07255032 0.10060976
+(duration,4) (credit,no) (marital,married) 0.08206149 0.04851752
+(duration,3) (credit,no) (marital,married) 0.10241097 0.021598272
+(duration,9) (credit,no) (marital,married) 0.108383104 0.2897959
+(poutcome,unknown) (credit,no) (marital,married) 0.5023225 0.07397622
+(poutcome,failure) (credit,no) (marital,married) 0.06591462 0.11409396
+(balance,2) (loan,no) (marital,married) 0.07210794 0.1380368
+(balance,2) (poutcome,unknown) (marital,married) 0.06613581 0.08695652
+(balance,1) (housing,no) (marital,married) 0.15239991 0.11756168
+(balance,1) (housing,yes) (marital,married) 0.20968813 0.05907173
+(balance,1) (loan,no) (marital,married) 0.29949126 0.0915805
+(balance,1) (loan,yes) (marital,married) 0.06259677 0.045936394
+(balance,1) (duration,2) (marital,married) 0.06370272 0.010416667
+(balance,1) (duration,3) (marital,married) 0.06215439 0.017793594
+(balance,1) (duration,9) (marital,married) 0.06259677 0.27915195
+(balance,1) (poutcome,unknown) (marital,married) 0.29904887 0.062869824
+(housing,no) (loan,no) (marital,married) 0.22096881 0.14714715
+(housing,no) (poutcome,unknown) (marital,married) 0.21919928 0.090817355
+(housing,yes) (loan,no) (marital,married) 0.29750055 0.07881041
+(housing,yes) (loan,yes) (marital,married) 0.0619332 0.057142857
+(duration,2) (housing,yes) (marital,married) 0.05441274 0.0040650405
+(duration,4) (housing,yes) (marital,married) 0.05065251 0.026200874
+(duration,3) (housing,yes) (marital,married) 0.05640345 0.011764706
+(duration,9) (housing,yes) (marital,married) 0.064808674 0.26279864
+(housing,yes) (poutcome,unknown) (marital,married) 0.29064366 0.0608828
+(duration,2) (loan,no) (marital,married) 0.07675293 0.014409222
+(duration,5) (loan,no) (marital,married) 0.06281796 0.116197184
+(duration,4) (loan,no) (marital,married) 0.06679938 0.052980132
+(duration,3) (loan,no) (marital,married) 0.08825481 0.02255639
+(duration,9) (loan,no) (marital,married) 0.0906879 0.30731708
+(poutcome,unknown) (loan,no) (marital,married) 0.424906 0.08016658
+(poutcome,failure) (loan,no) (marital,married) 0.055076312 0.13253012
+(poutcome,unknown) (loan,yes) (marital,married) 0.08493696 0.041666668
+(duration,2) (poutcome,unknown) (marital,married) 0.08029197 0.013774104
+(duration,5) (poutcome,unknown) (marital,married) 0.06038487 0.07326008
+(duration,4) (poutcome,unknown) (marital,married) 0.067684144 0.019607844
+(duration,3) (poutcome,unknown) (marital,married) 0.0862641 0.012820513
+(duration,9) (poutcome,unknown) (marital,married) 0.08781243 0.25188917
+(credit,no) (education,secondary) (marital,single) 0.13205042 0.13065326
+(balance,1) (education,secondary) (marital,single) 0.08383101 0.12664908
+(housing,no) (education,secondary) (marital,single) 0.05817297 0.16730037
+(housing,yes) (education,secondary) (marital,single) 0.07653174 0.10693642
+(education,secondary) (loan,no) (marital,single) 0.11435523 0.13926499
+(poutcome,unknown) (education,secondary) (marital,single) 0.10904667 0.11359026
+(credit,no) (education,tertiary) (marital,single) 0.1017474 0.16304348
+(balance,1) (education,tertiary) (marital,single) 0.059721302 0.15185185
+(housing,no) (education,tertiary) (marital,single) 0.05397036 0.20491803
+(education,tertiary) (loan,no) (marital,single) 0.09378456 0.16981132
+(poutcome,unknown) (education,tertiary) (marital,single) 0.07984959 0.12742382
+(balance,1) (credit,no) (marital,single) 0.15616015 0.12747875
+(housing,no) (credit,no) (marital,single) 0.1216545 0.18
+(housing,yes) (credit,no) (marital,single) 0.13802256 0.104166664
+(credit,no) (loan,no) (marital,single) 0.2280469 0.1483996
+(duration,9) (credit,no) (marital,single) 0.05175846 0.3888889
+(poutcome,unknown) (credit,no) (marital,single) 0.20703384 0.115384616
+(balance,1) (housing,no) (marital,single) 0.07896483 0.15406163
+(balance,1) (housing,yes) (marital,single) 0.07940721 0.10306407
+(balance,1) (loan,no) (marital,single) 0.137359 0.13848631
+(balance,1) (poutcome,unknown) (marital,single) 0.12961735 0.11604095
+(housing,no) (loan,no) (marital,single) 0.10904667 0.19269776
+(housing,no) (poutcome,unknown) (marital,single) 0.1039593 0.14468086
+(housing,yes) (loan,no) (marital,single) 0.12276045 0.10810811
+(housing,yes) (poutcome,unknown) (marital,single) 0.10771953 0.08829569
+(poutcome,unknown) (loan,no) (marital,single) 0.18425128 0.12244898
+(credit,no) (education,secondary) (marital,divorced) 0.05728821 0.14285715
+(balance,1) (credit,no) (marital,divorced) 0.069453664 0.12420382
+(housing,yes) (credit,no) (marital,divorced) 0.06348153 0.108013935
+(credit,no) (loan,no) (marital,divorced) 0.09466932 0.15654206
+(poutcome,unknown) (credit,no) (marital,divorced) 0.094448134 0.12412178
+(balance,1) (loan,no) (marital,divorced) 0.05994249 0.14391144
+(balance,1) (poutcome,unknown) (marital,divorced) 0.057951782 0.10687023
+(housing,yes) (loan,no) (marital,divorced) 0.05596107 0.11462451
+(housing,yes) (poutcome,unknown) (marital,divorced) 0.05352798 0.08264463
+(poutcome,unknown) (loan,no) (marital,divorced) 0.07940721 0.14206128
+(balance,1) (education,primary) (credit,no) 0.089803144 0.08374384
+(housing,no) (education,primary) (credit,no) 0.06436629 0.13402061
+(housing,yes) (education,primary) (credit,no) 0.083388634 0.06366048
+(education,primary) (credit,no) (loan,no) 0.1282902 0.10172414
+(poutcome,unknown) (education,primary) (credit,no) 0.12607831 0.08245614
+(balance,1) (housing,yes) (education,primary) 0.050431322 0.04385965
+(balance,1) (education,primary) (loan,no) 0.07697412 0.0862069
+(balance,1) (poutcome,unknown) (education,primary) 0.07675293 0.074927956
+(housing,no) (education,primary) (loan,no) 0.05596107 0.14624506
+(housing,no) (poutcome,unknown) (education,primary) 0.05728821 0.10810811
+(housing,yes) (education,primary) (loan,no) 0.07321389 0.0694864
+(housing,yes) (poutcome,unknown) (education,primary) 0.07100199 0.062305298
+(poutcome,unknown) (education,primary) (loan,no) 0.10948905 0.09090909
+(balance,2) (education,secondary) (credit,no) 0.06547224 0.11486486
+(balance,1) (education,secondary) (credit,no) 0.3030303 0.09489051
+(housing,no) (education,secondary) (credit,no) 0.18955983 0.1505251
+(housing,yes) (education,secondary) (credit,no) 0.3103296 0.07840342
+(education,secondary) (credit,no) (loan,no) 0.41097102 0.115715824
+(education,secondary) (credit,no) (loan,yes) 0.08891838 0.05970149
+(duration,2) (education,secondary) (credit,no) 0.0729927 0.012121212
+(duration,5) (education,secondary) (credit,no) 0.05684583 0.07003891
+(duration,4) (education,secondary) (credit,no) 0.064808674 0.061433446
+(duration,3) (education,secondary) (credit,no) 0.07785888 0.025568182
+(duration,9) (education,secondary) (credit,no) 0.09688122 0.30593607
+(poutcome,unknown) (education,secondary) (credit,no) 0.40875912 0.08170996
+(poutcome,failure) (education,secondary) (credit,no) 0.05596107 0.13833992
+(balance,2) (education,secondary) (loan,no) 0.05684583 0.12062257
+(balance,2) (poutcome,unknown) (education,secondary) 0.05175846 0.08547009
+(balance,1) (housing,no) (education,secondary) 0.122318074 0.12658228
+(balance,1) (housing,yes) (education,secondary) 0.18535723 0.075178996
+(balance,1) (education,secondary) (loan,no) 0.2499447 0.107964605
+(balance,1) (education,secondary) (loan,yes) 0.05773059 0.042145595
+(balance,1) (duration,9) (education,secondary) 0.05905773 0.3071161
+(balance,1) (poutcome,unknown) (education,secondary) 0.25348374 0.079406634
+(housing,no) (education,secondary) (loan,no) 0.1572661 0.17018284
+(housing,no) (poutcome,unknown) (education,secondary) 0.16500774 0.1152815
+(housing,yes) (education,secondary) (loan,no) 0.26078302 0.08312129
+(housing,yes) (education,secondary) (loan,yes) 0.05551869 0.055776894
+(duration,9) (housing,yes) (education,secondary) 0.06348153 0.26480836
+(housing,yes) (poutcome,unknown) (education,secondary) 0.25326255 0.06113537
+(duration,2) (education,secondary) (loan,no) 0.06171201 0.014336918
+(duration,4) (education,secondary) (loan,no) 0.05197965 0.068085104
+(duration,3) (education,secondary) (loan,no) 0.066357 0.03
+(duration,9) (education,secondary) (loan,no) 0.08029197 0.3278237
+(poutcome,unknown) (education,secondary) (loan,no) 0.34041142 0.08966862
+(poutcome,unknown) (education,secondary) (loan,yes) 0.07785888 0.051136363
+(duration,2) (poutcome,unknown) (education,secondary) 0.06237558 0.010638298
+(duration,4) (poutcome,unknown) (education,secondary) 0.05286441 0.029288704
+(duration,3) (poutcome,unknown) (education,secondary) 0.067684144 0.019607844
+(duration,9) (poutcome,unknown) (education,secondary) 0.0796284 0.26944444
+(balance,1) (education,tertiary) (credit,no) 0.16744083 0.12549537
+(housing,no) (education,tertiary) (credit,no) 0.1504092 0.16617647
+(housing,yes) (education,tertiary) (credit,no) 0.14443707 0.12098009
+(education,tertiary) (credit,no) (loan,no) 0.25724396 0.15391229
+(duration,3) (education,tertiary) (credit,no) 0.05441274 0.044715445
+(duration,9) (education,tertiary) (credit,no) 0.05220084 0.41525424
+(poutcome,unknown) (education,tertiary) (credit,no) 0.23645212 0.1131899
+(balance,1) (housing,no) (education,tertiary) 0.088476 0.145
+(balance,1) (housing,yes) (education,tertiary) 0.08073435 0.10410959
+(balance,1) (education,tertiary) (loan,no) 0.14664897 0.13725491
+(balance,1) (poutcome,unknown) (education,tertiary) 0.13669541 0.100323625
+(housing,no) (education,tertiary) (loan,no) 0.13581066 0.18078175
+(housing,no) (poutcome,unknown) (education,tertiary) 0.12652068 0.12587413
+(housing,yes) (education,tertiary) (loan,no) 0.12430878 0.1227758
+(housing,yes) (poutcome,unknown) (education,tertiary) 0.11324928 0.09765625
+(poutcome,unknown) (education,tertiary) (loan,no) 0.20659146 0.12098501
+(balance,2) (housing,no) (credit,no) 0.05153727 0.20600858
+(balance,2) (housing,yes) (credit,no) 0.0796284 0.08611111
+(balance,2) (credit,no) (loan,no) 0.115903564 0.13931298
+(balance,2) (poutcome,unknown) (credit,no) 0.10440168 0.097457625
+(balance,1) (housing,no) (credit,no) 0.26034063 0.13169074
+(balance,1) (housing,yes) (credit,no) 0.32404336 0.07508533
+(balance,1) (credit,no) (loan,no) 0.49192655 0.11061151
+(balance,1) (credit,no) (loan,yes) 0.09245742 0.045454547
+(balance,1) (duration,2) (credit,no) 0.09798717 0.020316027
+(balance,1) (duration,5) (credit,no) 0.06237558 0.07092199
+(balance,1) (duration,4) (credit,no) 0.07431984 0.041666668
+(balance,1) (duration,3) (credit,no) 0.10351692 0.027777778
+(balance,1) (duration,9) (credit,no) 0.10484406 0.3185654
+(balance,1) (poutcome,unknown) (credit,no) 0.47998232 0.08156682
+(balance,1) (poutcome,failure) (credit,no) 0.0641451 0.11034483
+(balance,0) (housing,yes) (credit,no) 0.05197965 0.089361705
+(balance,0) (credit,no) (loan,no) 0.05197965 0.068085104
+(balance,0) (poutcome,unknown) (credit,no) 0.06259677 0.07067138
+(balance,3) (credit,no) (loan,no) 0.05286441 0.21338913
+(housing,no) (credit,no) (loan,no) 0.3671754 0.16807228
+(housing,no) (credit,no) (loan,yes) 0.05994249 0.05904059
+(duration,2) (housing,no) (credit,no) 0.06657819 0.03322259
+(duration,4) (housing,no) (credit,no) 0.05220084 0.08898305
+(duration,3) (housing,no) (credit,no) 0.0774165 0.04857143
+(duration,9) (housing,no) (credit,no) 0.07608936 0.39534885
+(housing,no) (poutcome,unknown) (credit,no) 0.3607609 0.11526671
+(housing,yes) (credit,no) (loan,no) 0.4687016 0.090608776
+(housing,yes) (credit,no) (loan,yes) 0.08737005 0.06329114
+(duration,2) (housing,yes) (credit,no) 0.08206149 0.008086253
+(duration,5) (housing,yes) (credit,no) 0.06436629 0.06185567
+(duration,4) (housing,yes) (credit,no) 0.07719531 0.028653296
+(duration,3) (housing,yes) (credit,no) 0.08692767 0.017811704
+(duration,9) (housing,yes) (credit,no) 0.10639239 0.29313928
+(housing,yes) (poutcome,unknown) (credit,no) 0.44304356 0.07039441
+(housing,yes) (poutcome,failure) (credit,no) 0.07564698 0.10526316
+(duration,2) (credit,no) (loan,no) 0.12364521 0.021466905
+(duration,5) (credit,no) (loan,no) 0.09466932 0.10981309
+(duration,4) (credit,no) (loan,no) 0.1061712 0.060416665
+(duration,3) (credit,no) (loan,no) 0.1415616 0.0359375
+(duration,6) (credit,no) (loan,no) 0.0641451 0.15862069
+(duration,9) (credit,no) (loan,no) 0.15394825 0.3520115
+(duration,1) (credit,no) (loan,no) 0.06967485 0.0031746032
+(poutcome,unknown) (credit,no) (loan,no) 0.67816854 0.098173514
+(poutcome,failure) (credit,no) (loan,no) 0.0928998 0.1404762
+(poutcome,unknown) (credit,no) (loan,yes) 0.12563592 0.049295776
+(duration,2) (poutcome,unknown) (credit,no) 0.12696306 0.019163763
+(duration,5) (poutcome,unknown) (credit,no) 0.0862641 0.06923077
+(duration,4) (poutcome,unknown) (credit,no) 0.10351692 0.027777778
+(duration,3) (poutcome,unknown) (credit,no) 0.13558947 0.02446982
+(duration,6) (poutcome,unknown) (credit,no) 0.059721302 0.062962964
+(duration,9) (poutcome,unknown) (credit,no) 0.14664897 0.30618402
+(duration,1) (poutcome,unknown) (credit,no) 0.06879009 0.0
+(balance,2) (housing,yes) (loan,no) 0.06989604 0.085443035
+(balance,2) (housing,yes) (poutcome,unknown) 0.06326034 0.05944056
+(balance,2) (poutcome,unknown) (loan,no) 0.09179385 0.10361446
+(balance,1) (housing,no) (loan,no) 0.22406547 0.14708786
+(balance,1) (housing,no) (poutcome,unknown) 0.22671975 0.100487806
+(balance,1) (housing,yes) (loan,no) 0.27272728 0.081103005
+(balance,1) (housing,yes) (loan,yes) 0.05463393 0.04453441
+(balance,1) (duration,2) (housing,yes) 0.05131608 0.00862069
+(balance,1) (duration,3) (housing,yes) 0.055076312 0.012048192
+(balance,1) (duration,9) (housing,yes) 0.06038487 0.2783883
+(balance,1) (housing,yes) (poutcome,unknown) 0.25989825 0.06638298
+(balance,1) (duration,2) (loan,no) 0.08250387 0.024128687
+(balance,1) (duration,5) (loan,no) 0.05397036 0.08196721
+(balance,1) (duration,4) (loan,no) 0.06104844 0.050724637
+(balance,1) (duration,3) (loan,no) 0.08913957 0.029776676
+(balance,1) (duration,9) (loan,no) 0.09002433 0.33906633
+(balance,1) (poutcome,unknown) (loan,no) 0.40544128 0.09056192
+(balance,1) (poutcome,failure) (loan,no) 0.055076312 0.124497995
+(balance,1) (poutcome,unknown) (loan,yes) 0.08117673 0.040871933
+(balance,1) (duration,2) (poutcome,unknown) 0.083388634 0.021220159
+(balance,1) (duration,4) (poutcome,unknown) 0.06104844 0.025362318
+(balance,1) (duration,3) (poutcome,unknown) 0.08781243 0.020151133
+(balance,1) (duration,9) (poutcome,unknown) 0.0862641 0.2923077
+(balance,0) (poutcome,unknown) (loan,no) 0.05131608 0.06896552
+(duration,2) (housing,no) (loan,no) 0.05573988 0.035714287
+(duration,3) (housing,no) (loan,no) 0.06879009 0.051446944
+(duration,9) (housing,no) (loan,no) 0.06591462 0.43288592
+(housing,no) (poutcome,unknown) (loan,no) 0.30944481 0.12651893
+(housing,no) (poutcome,unknown) (loan,yes) 0.05817297 0.064638786
+(duration,2) (housing,no) (poutcome,unknown) 0.06016368 0.033088237
+(duration,3) (housing,no) (poutcome,unknown) 0.067684144 0.035947714
+(duration,9) (housing,no) (poutcome,unknown) 0.06436629 0.37457046
+(duration,2) (housing,yes) (loan,no) 0.06967485 0.00952381
+(duration,5) (housing,yes) (loan,no) 0.0552975 0.072
+(duration,4) (housing,yes) (loan,no) 0.06348153 0.031358887
+(duration,3) (housing,yes) (loan,no) 0.07476222 0.020710059
+(duration,9) (housing,yes) (loan,no) 0.0906879 0.3
+(housing,yes) (poutcome,unknown) (loan,no) 0.37911966 0.07584597
+(housing,yes) (poutcome,failure) (loan,no) 0.0641451 0.11034483
+(housing,yes) (poutcome,unknown) (loan,yes) 0.07277151 0.039513677
+(duration,2) (housing,yes) (poutcome,unknown) 0.069453664 0.006369427
+(duration,5) (housing,yes) (poutcome,unknown) 0.0508737 0.039130434
+(duration,4) (housing,yes) (poutcome,unknown) 0.06126963 0.018050542
+(duration,3) (housing,yes) (poutcome,unknown) 0.07144437 0.012383901
+(duration,9) (housing,yes) (poutcome,unknown) 0.08493696 0.265625
+(duration,2) (poutcome,unknown) (loan,no) 0.10749834 0.020576132
+(duration,5) (poutcome,unknown) (loan,no) 0.0752046 0.07941177
+(duration,4) (poutcome,unknown) (loan,no) 0.08582172 0.028350515
+(duration,3) (poutcome,unknown) (loan,no) 0.11833665 0.028037382
+(duration,6) (poutcome,unknown) (loan,no) 0.05131608 0.06465517
+(duration,9) (poutcome,unknown) (loan,no) 0.12475116 0.33333334
+(duration,1) (poutcome,unknown) (loan,no) 0.05927892 0.0
+*****4项集包含580项*****
+(age,2) (job,management) (credit,no) (marital,married) 0.0508737 0.17391305
+(age,2) (job,management) (credit,no) (education,tertiary) 0.08449458 0.15183246
+(balance,1) (age,2) (job,management) (education,tertiary) 0.050431322 0.13157895
+(age,2) (job,management) (education,tertiary) (loan,no) 0.07653174 0.15895954
+(poutcome,unknown) (age,2) (job,management) (education,tertiary) 0.06724176 0.121710524
+(balance,1) (age,2) (job,management) (credit,no) 0.05618226 0.122047246
+(housing,yes) (age,2) (job,management) (credit,no) 0.05706702 0.12403101
+(age,2) (job,management) (credit,no) (loan,no) 0.08737005 0.1493671
+(poutcome,unknown) (age,2) (job,management) (credit,no) 0.07631055 0.11014493
+(balance,1) (age,2) (job,management) (loan,no) 0.05153727 0.12875536
+(housing,yes) (age,2) (job,management) (loan,no) 0.05109489 0.12554112
+(poutcome,unknown) (age,2) (job,management) (loan,no) 0.06901128 0.115384616
+(age,2) (job,blue-collar) (credit,no) (marital,married) 0.06016368 0.05147059
+(age,2) (job,blue-collar) (credit,no) (education,secondary) 0.05662464 0.07421875
+(balance,1) (age,2) (job,blue-collar) (credit,no) 0.05397036 0.057377048
+(housing,yes) (age,2) (job,blue-collar) (credit,no) 0.06879009 0.06430868
+(age,2) (job,blue-collar) (credit,no) (loan,no) 0.07122318 0.07453416
+(poutcome,unknown) (age,2) (job,blue-collar) (credit,no) 0.07166556 0.06790123
+(housing,yes) (age,2) (job,blue-collar) (loan,no) 0.05773059 0.08045977
+(housing,yes) (poutcome,unknown) (age,2) (job,blue-collar) 0.05684583 0.07003891
+(poutcome,unknown) (age,2) (job,blue-collar) (loan,no) 0.05905773 0.08239701
+(age,2) (job,technician) (credit,no) (loan,no) 0.06679938 0.10927153
+(poutcome,unknown) (age,2) (job,technician) (credit,no) 0.0619332 0.075
+(poutcome,unknown) (age,2) (job,technician) (loan,no) 0.05441274 0.08943089
+(age,2) (credit,no) (education,secondary) (marital,married) 0.12010617 0.06629834
+(balance,1) (age,2) (education,secondary) (marital,married) 0.07542579 0.06451613
+(housing,yes) (age,2) (education,secondary) (marital,married) 0.092678614 0.057279237
+(age,2) (education,secondary) (loan,no) (marital,married) 0.09666003 0.075514875
+(poutcome,unknown) (age,2) (education,secondary) (marital,married) 0.099093124 0.046875
+(age,2) (credit,no) (education,tertiary) (marital,married) 0.072329134 0.1590214
+(age,2) (education,tertiary) (loan,no) (marital,married) 0.063039154 0.17192982
+(poutcome,unknown) (age,2) (education,tertiary) (marital,married) 0.05728821 0.115830116
+(balance,1) (age,2) (credit,no) (marital,married) 0.13758019 0.07717042
+(housing,no) (age,2) (credit,no) (marital,married) 0.07033842 0.12893082
+(housing,yes) (age,2) (credit,no) (marital,married) 0.15372705 0.07913669
+(age,2) (credit,no) (loan,no) (marital,married) 0.18646318 0.10557532
+(poutcome,unknown) (age,2) (credit,no) (marital,married) 0.18181819 0.06812652
+(balance,1) (housing,yes) (age,2) (marital,married) 0.09489051 0.062937066
+(balance,1) (age,2) (loan,no) (marital,married) 0.11324928 0.087890625
+(balance,1) (poutcome,unknown) (age,2) (marital,married) 0.11391285 0.05436893
+(housing,no) (age,2) (loan,no) (marital,married) 0.06171201 0.13978495
+(housing,no) (poutcome,unknown) (age,2) (marital,married) 0.058836542 0.075187966
+(housing,yes) (age,2) (loan,no) (marital,married) 0.12607831 0.08947369
+(housing,yes) (poutcome,unknown) (age,2) (marital,married) 0.12497235 0.063716814
+(poutcome,unknown) (age,2) (loan,no) (marital,married) 0.15107277 0.0761347
+(age,2) (credit,no) (education,secondary) (marital,single) 0.06547224 0.097972974
+(age,2) (education,secondary) (loan,no) (marital,single) 0.05773059 0.11494253
+(poutcome,unknown) (age,2) (education,secondary) (marital,single) 0.05397036 0.094262294
+(age,2) (credit,no) (education,tertiary) (marital,single) 0.0619332 0.12857144
+(age,2) (education,tertiary) (loan,no) (marital,single) 0.05684583 0.12840466
+(balance,1) (age,2) (credit,no) (marital,single) 0.0840522 0.1
+(housing,no) (age,2) (credit,no) (marital,single) 0.06082725 0.13454546
+(housing,yes) (age,2) (credit,no) (marital,single) 0.07631055 0.08695652
+(age,2) (credit,no) (loan,no) (marital,single) 0.12099093 0.115173675
+(poutcome,unknown) (age,2) (credit,no) (marital,single) 0.10904667 0.10141988
+(balance,1) (age,2) (loan,no) (marital,single) 0.07498341 0.112094395
+(balance,1) (poutcome,unknown) (age,2) (marital,single) 0.06923247 0.10543131
+(housing,no) (age,2) (loan,no) (marital,single) 0.05463393 0.14979757
+(housing,no) (poutcome,unknown) (age,2) (marital,single) 0.05441274 0.11382114
+(housing,yes) (age,2) (loan,no) (marital,single) 0.06879009 0.09003215
+(housing,yes) (poutcome,unknown) (age,2) (marital,single) 0.05728821 0.09266409
+(poutcome,unknown) (age,2) (loan,no) (marital,single) 0.09798717 0.11060948
+(balance,1) (age,2) (education,secondary) (credit,no) 0.1282902 0.072413795
+(housing,no) (age,2) (education,secondary) (credit,no) 0.0619332 0.1
+(housing,yes) (age,2) (education,secondary) (credit,no) 0.1437735 0.06923077
+(age,2) (education,secondary) (credit,no) (loan,no) 0.16898917 0.087696336
+(poutcome,unknown) (age,2) (education,secondary) (credit,no) 0.16677727 0.061007958
+(balance,1) (housing,yes) (age,2) (education,secondary) 0.08737005 0.07341772
+(balance,1) (age,2) (education,secondary) (loan,no) 0.10506525 0.088421054
+(balance,1) (poutcome,unknown) (age,2) (education,secondary) 0.106613584 0.062240664
+(housing,no) (age,2) (education,secondary) (loan,no) 0.05153727 0.115879826
+(housing,no) (poutcome,unknown) (age,2) (education,secondary) 0.05551869 0.07171315
+(housing,yes) (age,2) (education,secondary) (loan,no) 0.12010617 0.07918969
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) 0.114797615 0.057803467
+(poutcome,unknown) (age,2) (education,secondary) (loan,no) 0.13868614 0.07017544
+(balance,1) (age,2) (education,tertiary) (credit,no) 0.08493696 0.13020833
+(housing,no) (age,2) (education,tertiary) (credit,no) 0.06657819 0.1627907
+(housing,yes) (age,2) (education,tertiary) (credit,no) 0.0774165 0.12857144
+(age,2) (education,tertiary) (credit,no) (loan,no) 0.12718426 0.15304348
+(poutcome,unknown) (age,2) (education,tertiary) (credit,no) 0.11391285 0.12038835
+(balance,1) (age,2) (education,tertiary) (loan,no) 0.07542579 0.14076246
+(balance,1) (poutcome,unknown) (age,2) (education,tertiary) 0.0685689 0.11290322
+(housing,no) (age,2) (education,tertiary) (loan,no) 0.06126963 0.1732852
+(housing,no) (poutcome,unknown) (age,2) (education,tertiary) 0.05618226 0.12598425
+(housing,yes) (age,2) (education,tertiary) (loan,no) 0.06746295 0.13442624
+(housing,yes) (poutcome,unknown) (age,2) (education,tertiary) 0.05950011 0.11524164
+(poutcome,unknown) (age,2) (education,tertiary) (loan,no) 0.10108383 0.12910284
+(balance,1) (housing,no) (age,2) (credit,no) 0.092678614 0.10739857
+(balance,1) (housing,yes) (age,2) (credit,no) 0.1504092 0.07794118
+(balance,1) (age,2) (credit,no) (loan,no) 0.20437956 0.10064935
+(balance,1) (poutcome,unknown) (age,2) (credit,no) 0.19774386 0.0738255
+(housing,no) (age,2) (credit,no) (loan,no) 0.12452997 0.14209591
+(housing,no) (poutcome,unknown) (age,2) (credit,no) 0.1216545 0.094545454
+(housing,yes) (age,2) (credit,no) (loan,no) 0.21123645 0.09319372
+(duration,9) (housing,yes) (age,2) (credit,no) 0.05441274 0.27235773
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) 0.19663791 0.07424072
+(duration,3) (age,2) (credit,no) (loan,no) 0.05839416 0.022727273
+(duration,9) (age,2) (credit,no) (loan,no) 0.06458748 0.32876712
+(poutcome,unknown) (age,2) (credit,no) (loan,no) 0.26896703 0.090460524
+(duration,3) (poutcome,unknown) (age,2) (credit,no) 0.055076312 0.02008032
+(duration,9) (poutcome,unknown) (age,2) (credit,no) 0.06237558 0.28014183
+(balance,1) (housing,no) (age,2) (loan,no) 0.08073435 0.12602739
+(balance,1) (housing,no) (poutcome,unknown) (age,2) 0.08294625 0.08533333
+(balance,1) (housing,yes) (age,2) (loan,no) 0.12629949 0.087565675
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) 0.11833665 0.06915888
+(balance,1) (poutcome,unknown) (age,2) (loan,no) 0.16788322 0.08695652
+(housing,no) (poutcome,unknown) (age,2) (loan,no) 0.10683477 0.10559006
+(housing,yes) (poutcome,unknown) (age,2) (loan,no) 0.16611369 0.08255659
+(duration,9) (poutcome,unknown) (age,2) (loan,no) 0.05197965 0.32340425
+(age,4) (credit,no) (education,secondary) (marital,married) 0.06458748 0.08561644
+(age,4) (education,secondary) (loan,no) (marital,married) 0.05109489 0.10822511
+(poutcome,unknown) (age,4) (education,secondary) (marital,married) 0.054191552 0.04897959
+(balance,1) (age,4) (credit,no) (marital,married) 0.08228268 0.07526882
+(housing,no) (age,4) (credit,no) (marital,married) 0.083388634 0.111405835
+(housing,yes) (age,4) (credit,no) (marital,married) 0.05950011 0.05204461
+(age,4) (credit,no) (loan,no) (marital,married) 0.11700951 0.096408315
+(poutcome,unknown) (age,4) (credit,no) (marital,married) 0.11877903 0.05772812
+(balance,1) (housing,no) (age,4) (marital,married) 0.05065251 0.09170306
+(balance,1) (age,4) (loan,no) (marital,married) 0.06790533 0.08143322
+(balance,1) (poutcome,unknown) (age,4) (marital,married) 0.06879009 0.048231512
+(housing,no) (age,4) (loan,no) (marital,married) 0.06657819 0.13289036
+(housing,no) (poutcome,unknown) (age,4) (marital,married) 0.07277151 0.06990881
+(housing,yes) (age,4) (loan,no) (marital,married) 0.05109489 0.051948052
+(poutcome,unknown) (age,4) (loan,no) (marital,married) 0.09688122 0.06392694
+(balance,1) (age,4) (education,secondary) (credit,no) 0.0508737 0.08695652
+(age,4) (education,secondary) (credit,no) (loan,no) 0.06458748 0.12328767
+(poutcome,unknown) (age,4) (education,secondary) (credit,no) 0.06724176 0.059210528
+(poutcome,unknown) (age,4) (education,secondary) (loan,no) 0.05242203 0.07172996
+(balance,1) (housing,no) (age,4) (credit,no) 0.0619332 0.09642857
+(balance,1) (age,4) (credit,no) (loan,no) 0.08648529 0.09207161
+(balance,1) (poutcome,unknown) (age,4) (credit,no) 0.08781243 0.052896727
+(housing,no) (age,4) (credit,no) (loan,no) 0.08228268 0.14247312
+(housing,no) (poutcome,unknown) (age,4) (credit,no) 0.09002433 0.07862408
+(housing,yes) (age,4) (credit,no) (loan,no) 0.069453664 0.06687898
+(housing,yes) (poutcome,unknown) (age,4) (credit,no) 0.064808674 0.04778157
+(poutcome,unknown) (age,4) (credit,no) (loan,no) 0.12497235 0.07079646
+(balance,1) (housing,no) (poutcome,unknown) (age,4) 0.05397036 0.05327869
+(balance,1) (poutcome,unknown) (age,4) (loan,no) 0.07055961 0.05956113
+(housing,no) (poutcome,unknown) (age,4) (loan,no) 0.07033842 0.094339624
+(housing,yes) (poutcome,unknown) (age,4) (loan,no) 0.05596107 0.04743083
+(age,3) (job,management) (credit,no) (loan,no) 0.05153727 0.1416309
+(age,3) (job,blue-collar) (credit,no) (marital,married) 0.05065251 0.048034936
+(age,3) (job,blue-collar) (credit,no) (loan,no) 0.05153727 0.06866953
+(poutcome,unknown) (age,3) (job,blue-collar) (credit,no) 0.05065251 0.052401748
+(age,3) (credit,no) (education,secondary) (marital,married) 0.0951117 0.10232558
+(balance,1) (age,3) (education,secondary) (marital,married) 0.0530856 0.1
+(housing,yes) (age,3) (education,secondary) (marital,married) 0.06436629 0.085910656
+(age,3) (education,secondary) (loan,no) (marital,married) 0.07940721 0.1086351
+(poutcome,unknown) (age,3) (education,secondary) (marital,married) 0.08095554 0.07650273
+(balance,1) (age,3) (credit,no) (marital,married) 0.10307454 0.07081545
+(housing,no) (age,3) (credit,no) (marital,married) 0.0707808 0.103125
+(housing,yes) (age,3) (credit,no) (marital,married) 0.1150188 0.075
+(age,3) (credit,no) (loan,no) (marital,married) 0.1572661 0.09142053
+(poutcome,unknown) (age,3) (credit,no) (marital,married) 0.15748729 0.06882022
+(balance,1) (housing,yes) (age,3) (marital,married) 0.0641451 0.055172414
+(balance,1) (age,3) (loan,no) (marital,married) 0.08604291 0.077120826
+(balance,1) (poutcome,unknown) (age,3) (marital,married) 0.088033624 0.057788946
+(housing,no) (age,3) (loan,no) (marital,married) 0.06259677 0.113074206
+(housing,no) (poutcome,unknown) (age,3) (marital,married) 0.06458748 0.08219178
+(housing,yes) (age,3) (loan,no) (marital,married) 0.09688122 0.07534247
+(housing,yes) (poutcome,unknown) (age,3) (marital,married) 0.09577527 0.06004619
+(poutcome,unknown) (age,3) (loan,no) (marital,married) 0.13581066 0.07166124
+(balance,1) (age,3) (education,secondary) (credit,no) 0.0729927 0.10606061
+(housing,yes) (age,3) (education,secondary) (credit,no) 0.08670648 0.096938774
+(age,3) (education,secondary) (credit,no) (loan,no) 0.10882548 0.1199187
+(poutcome,unknown) (age,3) (education,secondary) (credit,no) 0.10971024 0.08669355
+(balance,1) (age,3) (education,secondary) (loan,no) 0.060606062 0.11678832
+(balance,1) (poutcome,unknown) (age,3) (education,secondary) 0.060606062 0.08759124
+(housing,yes) (age,3) (education,secondary) (loan,no) 0.07210794 0.09509202
+(housing,yes) (poutcome,unknown) (age,3) (education,secondary) 0.07033842 0.06918239
+(poutcome,unknown) (age,3) (education,secondary) (loan,no) 0.09223623 0.0911271
+(age,3) (education,tertiary) (credit,no) (loan,no) 0.06237558 0.11702128
+(poutcome,unknown) (age,3) (education,tertiary) (credit,no) 0.05861535 0.086792454
+(poutcome,unknown) (age,3) (education,tertiary) (loan,no) 0.05242203 0.09282701
+(balance,1) (housing,no) (age,3) (credit,no) 0.05927892 0.09701493
+(balance,1) (housing,yes) (age,3) (credit,no) 0.08582172 0.069587626
+(balance,1) (age,3) (credit,no) (loan,no) 0.12320283 0.08797128
+(balance,1) (poutcome,unknown) (age,3) (credit,no) 0.12143331 0.06739526
+(housing,no) (age,3) (credit,no) (loan,no) 0.09002433 0.13267814
+(housing,no) (poutcome,unknown) (age,3) (credit,no) 0.09157266 0.10144927
+(housing,yes) (age,3) (credit,no) (loan,no) 0.13205042 0.09045226
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) 0.12652068 0.06818182
+(poutcome,unknown) (age,3) (credit,no) (loan,no) 0.1857996 0.08809524
+(balance,1) (housing,no) (age,3) (loan,no) 0.05242203 0.101265825
+(balance,1) (housing,no) (poutcome,unknown) (age,3) 0.0530856 0.083333336
+(balance,1) (housing,yes) (age,3) (loan,no) 0.07210794 0.07668712
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) 0.07011723 0.056782335
+(balance,1) (poutcome,unknown) (age,3) (loan,no) 0.1039593 0.07234043
+(housing,no) (poutcome,unknown) (age,3) (loan,no) 0.08029197 0.10743801
+(housing,yes) (poutcome,unknown) (age,3) (loan,no) 0.10860429 0.073319755
+(age,1) (credit,no) (loan,no) (marital,single) 0.06370272 0.19097222
+(poutcome,unknown) (age,1) (credit,no) (marital,single) 0.05905773 0.13483146
+(poutcome,unknown) (age,1) (loan,no) (marital,single) 0.0508737 0.13478261
+(age,1) (education,secondary) (credit,no) (loan,no) 0.05485512 0.14112903
+(poutcome,unknown) (age,1) (education,secondary) (credit,no) 0.05441274 0.12195122
+(balance,1) (age,1) (credit,no) (loan,no) 0.05817297 0.15969582
+(balance,1) (poutcome,unknown) (age,1) (credit,no) 0.05706702 0.13178295
+(housing,yes) (age,1) (credit,no) (loan,no) 0.05065251 0.09170306
+(housing,yes) (poutcome,unknown) (age,1) (credit,no) 0.05131608 0.08189655
+(poutcome,unknown) (age,1) (credit,no) (loan,no) 0.07166556 0.12345679
+(balance,1) (job,services) (education,secondary) (credit,no) 0.050431322 0.09210526
+(housing,yes) (job,services) (education,secondary) (credit,no) 0.05374917 0.06584362
+(job,services) (education,secondary) (credit,no) (loan,no) 0.0641451 0.10689655
+(poutcome,unknown) (job,services) (education,secondary) (credit,no) 0.06702057 0.0660066
+(poutcome,unknown) (job,services) (education,secondary) (loan,no) 0.05397036 0.07786885
+(housing,yes) (job,services) (credit,no) (loan,no) 0.0530856 0.083333336
+(housing,yes) (poutcome,unknown) (job,services) (credit,no) 0.05131608 0.060344826
+(poutcome,unknown) (job,services) (credit,no) (loan,no) 0.0619332 0.07857143
+(job,management) (credit,no) (education,tertiary) (marital,married) 0.09533289 0.14617169
+(job,management) (education,tertiary) (loan,no) (marital,married) 0.08316744 0.14893617
+(poutcome,unknown) (job,management) (education,tertiary) (marital,married) 0.07918602 0.11452514
+(balance,1) (job,management) (credit,no) (marital,married) 0.0619332 0.10714286
+(housing,no) (job,management) (credit,no) (marital,married) 0.05618226 0.1496063
+(housing,yes) (job,management) (credit,no) (marital,married) 0.06569343 0.13131313
+(job,management) (credit,no) (loan,no) (marital,married) 0.1061712 0.14583333
+(poutcome,unknown) (job,management) (credit,no) (marital,married) 0.10019907 0.10154525
+(balance,1) (job,management) (loan,no) (marital,married) 0.05397036 0.11885246
+(balance,1) (poutcome,unknown) (job,management) (marital,married) 0.05175846 0.072649576
+(housing,yes) (job,management) (loan,no) (marital,married) 0.057951782 0.1259542
+(housing,yes) (poutcome,unknown) (job,management) (marital,married) 0.05175846 0.094017096
+(poutcome,unknown) (job,management) (loan,no) (marital,married) 0.088476 0.105
+(job,management) (credit,no) (education,tertiary) (marital,single) 0.054191552 0.15918367
+(job,management) (education,tertiary) (loan,no) (marital,single) 0.0508737 0.16521738
+(job,management) (credit,no) (loan,no) (marital,single) 0.05861535 0.15471698
+(balance,1) (job,management) (education,tertiary) (credit,no) 0.09533289 0.1276102
+(housing,no) (job,management) (education,tertiary) (credit,no) 0.08537934 0.16321243
+(housing,yes) (job,management) (education,tertiary) (credit,no) 0.08648529 0.12787724
+(job,management) (education,tertiary) (credit,no) (loan,no) 0.1504092 0.15294118
+(poutcome,unknown) (job,management) (education,tertiary) (credit,no) 0.1371378 0.11612903
+(balance,1) (job,management) (education,tertiary) (loan,no) 0.08360982 0.14021164
+(balance,1) (poutcome,unknown) (job,management) (education,tertiary) 0.07719531 0.09742121
+(housing,no) (job,management) (education,tertiary) (loan,no) 0.07564698 0.18128654
+(housing,no) (poutcome,unknown) (job,management) (education,tertiary) 0.07343508 0.12349398
+(housing,yes) (job,management) (education,tertiary) (loan,no) 0.07631055 0.12173913
+(housing,yes) (poutcome,unknown) (job,management) (education,tertiary) 0.06547224 0.10472973
+(poutcome,unknown) (job,management) (education,tertiary) (loan,no) 0.11988498 0.12177122
+(balance,1) (housing,no) (job,management) (credit,no) 0.057951782 0.13358779
+(balance,1) (housing,yes) (job,management) (credit,no) 0.05861535 0.09056604
+(balance,1) (job,management) (credit,no) (loan,no) 0.101968594 0.123644255
+(balance,1) (poutcome,unknown) (job,management) (credit,no) 0.09466932 0.08411215
+(housing,no) (job,management) (credit,no) (loan,no) 0.08913957 0.17866005
+(housing,no) (poutcome,unknown) (job,management) (credit,no) 0.08648529 0.11764706
+(housing,yes) (job,management) (credit,no) (loan,no) 0.09643884 0.1146789
+(housing,yes) (poutcome,unknown) (job,management) (credit,no) 0.0840522 0.09210526
+(poutcome,unknown) (job,management) (credit,no) (loan,no) 0.14930326 0.11111111
+(balance,1) (housing,no) (poutcome,unknown) (job,management) 0.05109489 0.09090909
+(balance,1) (housing,yes) (job,management) (loan,no) 0.0530856 0.09166667
+(balance,1) (poutcome,unknown) (job,management) (loan,no) 0.08360982 0.08994709
+(housing,no) (poutcome,unknown) (job,management) (loan,no) 0.07564698 0.13157895
+(housing,yes) (poutcome,unknown) (job,management) (loan,no) 0.07542579 0.08797654
+(job,blue-collar) (credit,no) (education,primary) (marital,married) 0.06215439 0.024911031
+(job,blue-collar) (education,primary) (loan,no) (marital,married) 0.05374917 0.028806584
+(poutcome,unknown) (job,blue-collar) (education,primary) (marital,married) 0.05352798 0.020661157
+(job,blue-collar) (credit,no) (education,secondary) (marital,married) 0.08250387 0.06434316
+(housing,yes) (job,blue-collar) (education,secondary) (marital,married) 0.06702057 0.06270627
+(job,blue-collar) (education,secondary) (loan,no) (marital,married) 0.067684144 0.068627454
+(poutcome,unknown) (job,blue-collar) (education,secondary) (marital,married) 0.06879009 0.05466238
+(balance,1) (job,blue-collar) (credit,no) (marital,married) 0.09113028 0.029126214
+(housing,yes) (job,blue-collar) (credit,no) (marital,married) 0.11369166 0.046692606
+(job,blue-collar) (credit,no) (loan,no) (marital,married) 0.12718426 0.050434783
+(poutcome,unknown) (job,blue-collar) (credit,no) (marital,married) 0.12629949 0.04028021
+(balance,1) (housing,yes) (job,blue-collar) (marital,married) 0.06901128 0.028846154
+(balance,1) (job,blue-collar) (loan,no) (marital,married) 0.07608936 0.029069768
+(balance,1) (poutcome,unknown) (job,blue-collar) (marital,married) 0.07653174 0.023121387
+(housing,yes) (job,blue-collar) (loan,no) (marital,married) 0.09754479 0.04988662
+(housing,yes) (poutcome,unknown) (job,blue-collar) (marital,married) 0.09378456 0.04009434
+(poutcome,unknown) (job,blue-collar) (loan,no) (marital,married) 0.106613584 0.043568466
+(housing,yes) (job,blue-collar) (education,primary) (credit,no) 0.05662464 0.04296875
+(job,blue-collar) (education,primary) (credit,no) (loan,no) 0.06901128 0.048076924
+(poutcome,unknown) (job,blue-collar) (education,primary) (credit,no) 0.069453664 0.041401275
+(poutcome,unknown) (job,blue-collar) (education,primary) (loan,no) 0.05905773 0.04494382
+(balance,1) (job,blue-collar) (education,secondary) (credit,no) 0.067684144 0.0751634
+(housing,yes) (job,blue-collar) (education,secondary) (credit,no) 0.088033624 0.07788945
+(job,blue-collar) (education,secondary) (credit,no) (loan,no) 0.09223623 0.086330935
+(poutcome,unknown) (job,blue-collar) (education,secondary) (credit,no) 0.09356337 0.07565012
+(balance,1) (housing,yes) (job,blue-collar) (education,secondary) 0.05175846 0.072649576
+(balance,1) (job,blue-collar) (education,secondary) (loan,no) 0.0552975 0.076
+(balance,1) (poutcome,unknown) (job,blue-collar) (education,secondary) 0.05662464 0.07421875
+(housing,yes) (job,blue-collar) (education,secondary) (loan,no) 0.074098654 0.08358209
+(housing,yes) (poutcome,unknown) (job,blue-collar) (education,secondary) 0.07210794 0.061349694
+(poutcome,unknown) (job,blue-collar) (education,secondary) (loan,no) 0.07675293 0.077809796
+(balance,1) (housing,yes) (job,blue-collar) (credit,no) 0.08936076 0.044554457
+(balance,1) (job,blue-collar) (credit,no) (loan,no) 0.10218978 0.054112554
+(balance,1) (poutcome,unknown) (job,blue-collar) (credit,no) 0.10218978 0.051948052
+(housing,yes) (job,blue-collar) (credit,no) (loan,no) 0.12895377 0.066895366
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) 0.124087594 0.055258468
+(poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) 0.14355232 0.064714946
+(balance,1) (housing,yes) (job,blue-collar) (loan,no) 0.075868174 0.046647232
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) 0.0729927 0.03939394
+(balance,1) (poutcome,unknown) (job,blue-collar) (loan,no) 0.08427339 0.05511811
+(housing,yes) (poutcome,unknown) (job,blue-collar) (loan,no) 0.10683477 0.062111802
+(job,technician) (credit,no) (education,secondary) (marital,married) 0.064808674 0.092150174
+(job,technician) (education,secondary) (loan,no) (marital,married) 0.05374917 0.10699589
+(poutcome,unknown) (job,technician) (education,secondary) (marital,married) 0.05352798 0.0661157
+(balance,1) (job,technician) (credit,no) (marital,married) 0.05352798 0.08677686
+(job,technician) (credit,no) (loan,no) (marital,married) 0.07498341 0.11504425
+(poutcome,unknown) (job,technician) (credit,no) (marital,married) 0.07210794 0.07055215
+(poutcome,unknown) (job,technician) (loan,no) (marital,married) 0.0619332 0.07857143
+(job,technician) (credit,no) (loan,no) (marital,single) 0.05065251 0.13100436
+(balance,1) (job,technician) (education,secondary) (credit,no) 0.06967485 0.08571429
+(housing,yes) (job,technician) (education,secondary) (credit,no) 0.06392391 0.08304498
+(job,technician) (education,secondary) (credit,no) (loan,no) 0.092678614 0.112171836
+(poutcome,unknown) (job,technician) (education,secondary) (credit,no) 0.09046671 0.07823961
+(balance,1) (job,technician) (education,secondary) (loan,no) 0.05817297 0.102661595
+(balance,1) (poutcome,unknown) (job,technician) (education,secondary) 0.05728821 0.06177606
+(housing,yes) (job,technician) (education,secondary) (loan,no) 0.053306792 0.08713693
+(poutcome,unknown) (job,technician) (education,secondary) (loan,no) 0.07719531 0.08595989
+(balance,1) (housing,yes) (job,technician) (credit,no) 0.05352798 0.0785124
+(balance,1) (job,technician) (credit,no) (loan,no) 0.08537934 0.098445594
+(balance,1) (poutcome,unknown) (job,technician) (credit,no) 0.08294625 0.06666667
+(housing,no) (job,technician) (credit,no) (loan,no) 0.0641451 0.14137931
+(housing,no) (poutcome,unknown) (job,technician) (credit,no) 0.06370272 0.09375
+(housing,yes) (job,technician) (credit,no) (loan,no) 0.07697412 0.094827585
+(housing,yes) (poutcome,unknown) (job,technician) (credit,no) 0.07166556 0.06790123
+(poutcome,unknown) (job,technician) (credit,no) (loan,no) 0.11546118 0.0862069
+(balance,1) (poutcome,unknown) (job,technician) (loan,no) 0.07255032 0.07926829
+(housing,no) (poutcome,unknown) (job,technician) (loan,no) 0.05662464 0.10546875
+(housing,yes) (poutcome,unknown) (job,technician) (loan,no) 0.06126963 0.07581227
+(balance,1) (job,admin.) (education,secondary) (credit,no) 0.05131608 0.12931034
+(housing,yes) (job,admin.) (education,secondary) (credit,no) 0.05618226 0.09448819
+(job,admin.) (education,secondary) (credit,no) (loan,no) 0.06901128 0.13461539
+(poutcome,unknown) (job,admin.) (education,secondary) (credit,no) 0.06702057 0.089108914
+(poutcome,unknown) (job,admin.) (education,secondary) (loan,no) 0.05397036 0.09836066
+(housing,yes) (job,admin.) (credit,no) (loan,no) 0.05374917 0.09876543
+(poutcome,unknown) (job,admin.) (credit,no) (loan,no) 0.06436629 0.0927835
+(balance,1) (education,primary) (credit,no) (marital,married) 0.0707808 0.071875
+(housing,no) (education,primary) (credit,no) (marital,married) 0.050431322 0.118421055
+(housing,yes) (education,primary) (credit,no) (marital,married) 0.06458748 0.047945205
+(education,primary) (credit,no) (loan,no) (marital,married) 0.099093124 0.084821425
+(poutcome,unknown) (education,primary) (credit,no) (marital,married) 0.09798717 0.06772009
+(balance,1) (education,primary) (loan,no) (marital,married) 0.06016368 0.073529415
+(balance,1) (poutcome,unknown) (education,primary) (marital,married) 0.06126963 0.06498195
+(housing,yes) (education,primary) (loan,no) (marital,married) 0.05618226 0.051181104
+(housing,yes) (poutcome,unknown) (education,primary) (marital,married) 0.05441274 0.048780486
+(poutcome,unknown) (education,primary) (loan,no) (marital,married) 0.08471577 0.07310705
+(balance,1) (education,secondary) (credit,no) (marital,married) 0.18513604 0.080047786
+(housing,no) (education,secondary) (credit,no) (marital,married) 0.10993143 0.1307847
+(housing,yes) (education,secondary) (credit,no) (marital,married) 0.20061933 0.06504961
+(education,secondary) (credit,no) (loan,no) (marital,married) 0.25171423 0.09929701
+(education,secondary) (credit,no) (loan,yes) (marital,married) 0.058836542 0.041353382
+(duration,9) (education,secondary) (credit,no) (marital,married) 0.05640345 0.25882354
+(poutcome,unknown) (education,secondary) (credit,no) (marital,married) 0.2543685 0.06347826
+(balance,1) (housing,no) (education,secondary) (marital,married) 0.0685689 0.11612903
+(balance,1) (housing,yes) (education,secondary) (marital,married) 0.11900022 0.059479553
+(balance,1) (education,secondary) (loan,no) (marital,married) 0.14952444 0.090236686
+(balance,1) (poutcome,unknown) (education,secondary) (marital,married) 0.15527537 0.058404557
+(housing,no) (education,secondary) (loan,no) (marital,married) 0.0906879 0.15365854
+(housing,no) (poutcome,unknown) (education,secondary) (marital,married) 0.09400575 0.08470588
+(housing,yes) (education,secondary) (loan,no) (marital,married) 0.16456535 0.06989247
+(housing,yes) (poutcome,unknown) (education,secondary) (marital,married) 0.16522893 0.052208837
+(poutcome,unknown) (education,secondary) (loan,no) (marital,married) 0.20858218 0.0699894
+(poutcome,unknown) (education,secondary) (loan,yes) (marital,married) 0.05065251 0.03930131
+(balance,1) (education,tertiary) (credit,no) (marital,married) 0.088033624 0.10301507
+(housing,no) (education,tertiary) (credit,no) (marital,married) 0.08095554 0.13934426
+(housing,yes) (education,tertiary) (credit,no) (marital,married) 0.078743644 0.123595506
+(education,tertiary) (credit,no) (loan,no) (marital,married) 0.13780136 0.13804173
+(poutcome,unknown) (education,tertiary) (credit,no) (marital,married) 0.1305021 0.1
+(balance,1) (education,tertiary) (loan,no) (marital,married) 0.07564698 0.11111111
+(balance,1) (poutcome,unknown) (education,tertiary) (marital,married) 0.07188675 0.07692308
+(housing,no) (education,tertiary) (loan,no) (marital,married) 0.07255032 0.14939025
+(housing,no) (poutcome,unknown) (education,tertiary) (marital,married) 0.0685689 0.103225805
+(housing,yes) (education,tertiary) (loan,no) (marital,married) 0.06613581 0.12374582
+(housing,yes) (poutcome,unknown) (education,tertiary) (marital,married) 0.06281796 0.09507042
+(poutcome,unknown) (education,tertiary) (loan,no) (marital,married) 0.11258571 0.106090374
+(balance,2) (credit,no) (loan,no) (marital,married) 0.07210794 0.1380368
+(balance,2) (poutcome,unknown) (credit,no) (marital,married) 0.06613581 0.08695652
+(balance,1) (housing,no) (credit,no) (marital,married) 0.15085158 0.11730205
+(balance,1) (housing,yes) (credit,no) (marital,married) 0.2079186 0.05957447
+(balance,1) (credit,no) (loan,no) (marital,married) 0.29750055 0.092193305
+(balance,1) (credit,no) (loan,yes) (marital,married) 0.06126963 0.0433213
+(balance,1) (duration,2) (credit,no) (marital,married) 0.06326034 0.01048951
+(balance,1) (duration,3) (credit,no) (marital,married) 0.06126963 0.018050542
+(balance,1) (duration,9) (credit,no) (marital,married) 0.06215439 0.27758008
+(balance,1) (poutcome,unknown) (credit,no) (marital,married) 0.29573104 0.06282722
+(housing,no) (credit,no) (loan,no) (marital,married) 0.21942048 0.14717741
+(housing,no) (poutcome,unknown) (credit,no) (marital,married) 0.21610263 0.09007165
+(housing,yes) (credit,no) (loan,no) (marital,married) 0.29374033 0.07906626
+(housing,yes) (credit,no) (loan,yes) (marital,married) 0.06082725 0.05818182
+(duration,2) (housing,yes) (credit,no) (marital,married) 0.05352798 0.004132231
+(duration,3) (housing,yes) (credit,no) (marital,married) 0.055076312 0.012048192
+(duration,9) (housing,yes) (credit,no) (marital,married) 0.0641451 0.26206896
+(housing,yes) (poutcome,unknown) (credit,no) (marital,married) 0.28621987 0.061823804
+(duration,2) (credit,no) (loan,no) (marital,married) 0.07608936 0.014534884
+(duration,5) (credit,no) (loan,no) (marital,married) 0.06171201 0.11827957
+(duration,4) (credit,no) (loan,no) (marital,married) 0.06613581 0.053511705
+(duration,3) (credit,no) (loan,no) (marital,married) 0.08737005 0.02278481
+(duration,9) (credit,no) (loan,no) (marital,married) 0.089803144 0.30541873
+(poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.4200398 0.08056872
+(poutcome,failure) (credit,no) (loan,no) (marital,married) 0.055076312 0.13253012
+(poutcome,unknown) (credit,no) (loan,yes) (marital,married) 0.08228268 0.04032258
+(duration,2) (poutcome,unknown) (credit,no) (marital,married) 0.07918602 0.01396648
+(duration,5) (poutcome,unknown) (credit,no) (marital,married) 0.05905773 0.074906364
+(duration,4) (poutcome,unknown) (credit,no) (marital,married) 0.066357 0.02
+(duration,3) (poutcome,unknown) (credit,no) (marital,married) 0.08427339 0.0131233595
+(duration,9) (poutcome,unknown) (credit,no) (marital,married) 0.08692767 0.24936387
+(balance,2) (poutcome,unknown) (loan,no) (marital,married) 0.057951782 0.08778626
+(balance,1) (housing,no) (loan,no) (marital,married) 0.12873258 0.1305842
+(balance,1) (housing,no) (poutcome,unknown) (marital,married) 0.12983853 0.081771724
+(balance,1) (housing,yes) (loan,no) (marital,married) 0.17075868 0.062176164
+(balance,1) (housing,yes) (poutcome,unknown) (marital,married) 0.16921034 0.048366014
+(balance,1) (duration,2) (loan,no) (marital,married) 0.05242203 0.012658228
+(balance,1) (duration,3) (loan,no) (marital,married) 0.05109489 0.017316017
+(balance,1) (duration,9) (loan,no) (marital,married) 0.05153727 0.28755364
+(balance,1) (poutcome,unknown) (loan,no) (marital,married) 0.24596328 0.0692446
+(balance,1) (poutcome,unknown) (loan,yes) (marital,married) 0.0530856 0.033333335
+(balance,1) (duration,2) (poutcome,unknown) (marital,married) 0.05352798 0.012396694
+(balance,1) (duration,3) (poutcome,unknown) (marital,married) 0.05175846 0.008547009
+(balance,1) (duration,9) (poutcome,unknown) (marital,married) 0.0508737 0.2347826
+(housing,no) (poutcome,unknown) (loan,no) (marital,married) 0.18447246 0.099520385
+(duration,9) (housing,yes) (loan,no) (marital,married) 0.05264322 0.2647059
+(housing,yes) (poutcome,unknown) (loan,no) (marital,married) 0.24043353 0.065317385
+(housing,yes) (poutcome,unknown) (loan,yes) (marital,married) 0.05021013 0.039647575
+(duration,9) (housing,yes) (poutcome,unknown) (marital,married) 0.05264322 0.22689076
+(duration,2) (poutcome,unknown) (loan,no) (marital,married) 0.06502986 0.013605442
+(duration,5) (poutcome,unknown) (loan,no) (marital,married) 0.050431322 0.0877193
+(duration,4) (poutcome,unknown) (loan,no) (marital,married) 0.054191552 0.01632653
+(duration,3) (poutcome,unknown) (loan,no) (marital,married) 0.0729927 0.015151516
+(duration,9) (poutcome,unknown) (loan,no) (marital,married) 0.07188675 0.27076924
+(balance,1) (education,secondary) (credit,no) (marital,single) 0.08250387 0.123324394
+(housing,no) (education,secondary) (credit,no) (marital,single) 0.05684583 0.16342412
+(housing,yes) (education,secondary) (credit,no) (marital,single) 0.0752046 0.105882354
+(education,secondary) (credit,no) (loan,no) (marital,single) 0.11214333 0.13806707
+(poutcome,unknown) (education,secondary) (credit,no) (marital,single) 0.10639239 0.11018711
+(balance,1) (education,secondary) (loan,no) (marital,single) 0.07122318 0.13664596
+(balance,1) (poutcome,unknown) (education,secondary) (marital,single) 0.06879009 0.12540193
+(housing,no) (poutcome,unknown) (education,secondary) (marital,single) 0.05021013 0.14537445
+(housing,yes) (education,secondary) (loan,no) (marital,single) 0.06569343 0.11111111
+(housing,yes) (poutcome,unknown) (education,secondary) (marital,single) 0.058836542 0.08646616
+(poutcome,unknown) (education,secondary) (loan,no) (marital,single) 0.09223623 0.11990408
+(balance,1) (education,tertiary) (credit,no) (marital,single) 0.058836542 0.15413533
+(housing,no) (education,tertiary) (credit,no) (marital,single) 0.053306792 0.20746888
+(education,tertiary) (credit,no) (loan,no) (marital,single) 0.09223623 0.17266187
+(poutcome,unknown) (education,tertiary) (credit,no) (marital,single) 0.07830126 0.1299435
+(balance,1) (education,tertiary) (loan,no) (marital,single) 0.05286441 0.16317992
+(poutcome,unknown) (education,tertiary) (loan,no) (marital,single) 0.07166556 0.13271604
+(balance,1) (housing,no) (credit,no) (marital,single) 0.0774165 0.15428571
+(balance,1) (housing,yes) (credit,no) (marital,single) 0.078743644 0.101123594
+(balance,1) (credit,no) (loan,no) (marital,single) 0.13536829 0.13725491
+(balance,1) (poutcome,unknown) (credit,no) (marital,single) 0.12740543 0.114583336
+(housing,no) (credit,no) (loan,no) (marital,single) 0.10749834 0.19341564
+(housing,no) (poutcome,unknown) (credit,no) (marital,single) 0.1017474 0.14347826
+(housing,yes) (credit,no) (loan,no) (marital,single) 0.120548554 0.108256884
+(housing,yes) (poutcome,unknown) (credit,no) (marital,single) 0.10528644 0.0882353
+(poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.18071224 0.12239902
+(balance,1) (housing,no) (loan,no) (marital,single) 0.06834771 0.16828479
+(balance,1) (housing,no) (poutcome,unknown) (marital,single) 0.06812652 0.12662338
+(balance,1) (housing,yes) (loan,no) (marital,single) 0.06901128 0.10897436
+(balance,1) (housing,yes) (poutcome,unknown) (marital,single) 0.06149082 0.10431655
+(balance,1) (poutcome,unknown) (loan,no) (marital,single) 0.11192214 0.12252964
+(housing,no) (poutcome,unknown) (loan,no) (marital,single) 0.09046671 0.15158924
+(housing,yes) (poutcome,unknown) (loan,no) (marital,single) 0.09378456 0.094339624
+(balance,1) (credit,no) (loan,no) (marital,divorced) 0.05905773 0.1423221
+(balance,1) (poutcome,unknown) (credit,no) (marital,divorced) 0.05684583 0.105058365
+(housing,yes) (credit,no) (loan,no) (marital,divorced) 0.05441274 0.11382114
+(housing,yes) (poutcome,unknown) (credit,no) (marital,divorced) 0.05153727 0.08154506
+(poutcome,unknown) (credit,no) (loan,no) (marital,divorced) 0.0774165 0.13714285
+(balance,1) (credit,no) (education,primary) (loan,no) 0.07675293 0.08645533
+(balance,1) (poutcome,unknown) (credit,no) (education,primary) 0.07608936 0.075581394
+(housing,no) (credit,no) (education,primary) (loan,no) 0.05573988 0.14285715
+(housing,no) (poutcome,unknown) (credit,no) (education,primary) 0.05640345 0.105882354
+(housing,yes) (credit,no) (education,primary) (loan,no) 0.07255032 0.07012195
+(housing,yes) (poutcome,unknown) (credit,no) (education,primary) 0.06967485 0.06349207
+(poutcome,unknown) (credit,no) (education,primary) (loan,no) 0.10860429 0.089613035
+(balance,1) (poutcome,unknown) (education,primary) (loan,no) 0.06436629 0.0790378
+(housing,yes) (poutcome,unknown) (education,primary) (loan,no) 0.06104844 0.072463766
+(balance,2) (credit,no) (education,secondary) (loan,no) 0.05684583 0.12062257
+(balance,2) (poutcome,unknown) (credit,no) (education,secondary) 0.05175846 0.08547009
+(balance,1) (housing,no) (credit,no) (education,secondary) 0.11988498 0.12546125
+(balance,1) (housing,yes) (credit,no) (education,secondary) 0.18314531 0.07487923
+(balance,1) (credit,no) (education,secondary) (loan,no) 0.24662685 0.10762332
+(balance,1) (credit,no) (education,secondary) (loan,yes) 0.05640345 0.039215688
+(balance,1) (duration,9) (credit,no) (education,secondary) 0.057951782 0.30152673
+(balance,1) (poutcome,unknown) (credit,no) (education,secondary) 0.24928114 0.07808341
+(housing,no) (credit,no) (education,secondary) (loan,no) 0.15461181 0.1702432
+(housing,no) (poutcome,unknown) (credit,no) (education,secondary) 0.16080514 0.1127923
+(housing,yes) (credit,no) (education,secondary) (loan,no) 0.25635922 0.08283003
+(housing,yes) (credit,no) (education,secondary) (loan,yes) 0.05397036 0.057377048
+(duration,9) (housing,yes) (credit,no) (education,secondary) 0.0619332 0.2642857
+(housing,yes) (poutcome,unknown) (credit,no) (education,secondary) 0.247954 0.061552186
+(duration,2) (credit,no) (education,secondary) (loan,no) 0.060606062 0.01459854
+(duration,4) (credit,no) (education,secondary) (loan,no) 0.05109489 0.06926407
+(duration,3) (credit,no) (education,secondary) (loan,no) 0.06502986 0.030612245
+(duration,9) (credit,no) (education,secondary) (loan,no) 0.07830126 0.32485875
+(poutcome,unknown) (credit,no) (education,secondary) (loan,no) 0.3337757 0.08946322
+(poutcome,unknown) (credit,no) (education,secondary) (loan,yes) 0.07498341 0.04719764
+(duration,2) (poutcome,unknown) (credit,no) (education,secondary) 0.06082725 0.010909091
+(duration,4) (poutcome,unknown) (credit,no) (education,secondary) 0.05131608 0.030172413
+(duration,3) (poutcome,unknown) (credit,no) (education,secondary) 0.06525105 0.020338982
+(duration,9) (poutcome,unknown) (credit,no) (education,secondary) 0.07763769 0.26210827
+(balance,1) (housing,no) (education,secondary) (loan,no) 0.09820836 0.1463964
+(balance,1) (housing,no) (poutcome,unknown) (education,secondary) 0.106613584 0.099585064
+(balance,1) (housing,yes) (education,secondary) (loan,no) 0.15173635 0.08309038
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) 0.14687017 0.06475904
+(balance,1) (poutcome,unknown) (education,secondary) (loan,no) 0.20437956 0.08982684
+(housing,no) (poutcome,unknown) (education,secondary) (loan,no) 0.13138686 0.124579124
+(duration,9) (housing,yes) (education,secondary) (loan,no) 0.05197965 0.27234042
+(housing,yes) (poutcome,unknown) (education,secondary) (loan,no) 0.20902455 0.06772487
+(duration,2) (poutcome,unknown) (education,secondary) (loan,no) 0.05153727 0.012875536
+(duration,3) (poutcome,unknown) (education,secondary) (loan,no) 0.05551869 0.023904383
+(duration,9) (poutcome,unknown) (education,secondary) (loan,no) 0.06370272 0.28819445
+(balance,1) (housing,no) (credit,no) (education,tertiary) 0.08737005 0.1443038
+(balance,1) (housing,yes) (credit,no) (education,tertiary) 0.08007078 0.10497238
+(balance,1) (credit,no) (education,tertiary) (loan,no) 0.14532183 0.1369863
+(balance,1) (poutcome,unknown) (credit,no) (education,tertiary) 0.1349259 0.1
+(housing,no) (credit,no) (education,tertiary) (loan,no) 0.1349259 0.18032786
+(housing,no) (poutcome,unknown) (credit,no) (education,tertiary) 0.12497235 0.12566371
+(housing,yes) (credit,no) (education,tertiary) (loan,no) 0.122318074 0.12477396
+(housing,yes) (poutcome,unknown) (credit,no) (education,tertiary) 0.11147976 0.09920635
+(poutcome,unknown) (credit,no) (education,tertiary) (loan,no) 0.20415837 0.12134345
+(balance,1) (housing,no) (education,tertiary) (loan,no) 0.078743644 0.16011237
+(balance,1) (housing,no) (poutcome,unknown) (education,tertiary) 0.07454103 0.10385757
+(balance,1) (housing,yes) (education,tertiary) (loan,no) 0.06790533 0.110749185
+(balance,1) (housing,yes) (poutcome,unknown) (education,tertiary) 0.06215439 0.09608541
+(balance,1) (poutcome,unknown) (education,tertiary) (loan,no) 0.117673084 0.10902256
+(housing,no) (poutcome,unknown) (education,tertiary) (loan,no) 0.11170095 0.13861386
+(housing,yes) (poutcome,unknown) (education,tertiary) (loan,no) 0.09489051 0.1002331
+(balance,2) (housing,yes) (credit,no) (loan,no) 0.06989604 0.085443035
+(balance,2) (housing,yes) (poutcome,unknown) (credit,no) 0.06326034 0.05944056
+(balance,2) (poutcome,unknown) (credit,no) (loan,no) 0.09157266 0.10144927
+(balance,1) (housing,no) (credit,no) (loan,no) 0.22163238 0.14670658
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) 0.22295952 0.09920635
+(balance,1) (housing,yes) (credit,no) (loan,no) 0.2702942 0.08101473
+(balance,1) (housing,yes) (credit,no) (loan,yes) 0.05374917 0.04526749
+(balance,1) (duration,2) (housing,yes) (credit,no) 0.050431322 0.00877193
+(balance,1) (duration,3) (housing,yes) (credit,no) 0.054191552 0.012244898
+(balance,1) (duration,9) (housing,yes) (credit,no) 0.059721302 0.2777778
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) 0.25702277 0.06626506
+(balance,1) (duration,2) (credit,no) (loan,no) 0.08161911 0.024390243
+(balance,1) (duration,5) (credit,no) (loan,no) 0.053306792 0.082987554
+(balance,1) (duration,4) (credit,no) (loan,no) 0.060606062 0.05109489
+(balance,1) (duration,3) (credit,no) (loan,no) 0.08825481 0.030075189
+(balance,1) (duration,9) (credit,no) (loan,no) 0.08891838 0.33582088
+(balance,1) (poutcome,unknown) (credit,no) (loan,no) 0.4007963 0.08995585
+(balance,1) (poutcome,failure) (credit,no) (loan,no) 0.055076312 0.124497995
+(balance,1) (poutcome,unknown) (credit,no) (loan,yes) 0.07918602 0.039106146
+(balance,1) (duration,2) (poutcome,unknown) (credit,no) 0.08250387 0.021447722
+(balance,1) (duration,4) (poutcome,unknown) (credit,no) 0.05994249 0.025830258
+(balance,1) (duration,3) (poutcome,unknown) (credit,no) 0.0862641 0.020512821
+(balance,1) (duration,9) (poutcome,unknown) (credit,no) 0.085158154 0.2857143
+(duration,2) (housing,no) (credit,no) (loan,no) 0.0552975 0.036
+(duration,3) (housing,no) (credit,no) (loan,no) 0.06812652 0.051948052
+(duration,9) (housing,no) (credit,no) (loan,no) 0.06502986 0.42517006
+(housing,no) (poutcome,unknown) (credit,no) (loan,no) 0.3056846 0.1251809
+(housing,no) (poutcome,unknown) (credit,no) (loan,yes) 0.055076312 0.060240965
+(duration,2) (housing,no) (poutcome,unknown) (credit,no) 0.05950011 0.03345725
+(duration,3) (housing,no) (poutcome,unknown) (credit,no) 0.06613581 0.036789298
+(duration,9) (housing,no) (poutcome,unknown) (credit,no) 0.063039154 0.3614035
+(duration,2) (housing,yes) (credit,no) (loan,no) 0.06834771 0.009708738
+(duration,5) (housing,yes) (credit,no) (loan,no) 0.05485512 0.07258064
+(duration,4) (housing,yes) (credit,no) (loan,no) 0.06259677 0.03180212
+(duration,3) (housing,yes) (credit,no) (loan,no) 0.07343508 0.021084337
+(duration,9) (housing,yes) (credit,no) (loan,no) 0.08891838 0.29850745
+(housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.37248397 0.076009504
+(housing,yes) (poutcome,failure) (credit,no) (loan,no) 0.06392391 0.11072665
+(housing,yes) (poutcome,unknown) (credit,no) (loan,yes) 0.07055961 0.04075235
+(duration,2) (housing,yes) (poutcome,unknown) (credit,no) 0.06746295 0.006557377
+(duration,5) (housing,yes) (poutcome,unknown) (credit,no) 0.05021013 0.039647575
+(duration,4) (housing,yes) (poutcome,unknown) (credit,no) 0.059721302 0.018518519
+(duration,3) (housing,yes) (poutcome,unknown) (credit,no) 0.069453664 0.012738854
+(duration,9) (housing,yes) (poutcome,unknown) (credit,no) 0.08360982 0.26455027
+(duration,2) (poutcome,unknown) (credit,no) (loan,no) 0.10572882 0.020920502
+(duration,5) (poutcome,unknown) (credit,no) (loan,no) 0.07387746 0.08083832
+(duration,4) (poutcome,unknown) (credit,no) (loan,no) 0.08449458 0.028795812
+(duration,3) (poutcome,unknown) (credit,no) (loan,no) 0.11634594 0.02851711
+(duration,6) (poutcome,unknown) (credit,no) (loan,no) 0.0508737 0.06521739
+(duration,9) (poutcome,unknown) (credit,no) (loan,no) 0.12253926 0.32851985
+(duration,1) (poutcome,unknown) (credit,no) (loan,no) 0.05839416 0.0
+(balance,2) (housing,yes) (poutcome,unknown) (loan,no) 0.05463393 0.060728744
+(balance,1) (housing,no) (poutcome,unknown) (loan,no) 0.18955983 0.11085181
+(balance,1) (duration,9) (housing,yes) (loan,no) 0.05153727 0.2832618
+(balance,1) (housing,yes) (poutcome,unknown) (loan,no) 0.21588144 0.072745904
+(balance,1) (duration,2) (poutcome,unknown) (loan,no) 0.06923247 0.025559105
+(balance,1) (duration,3) (poutcome,unknown) (loan,no) 0.07476222 0.02366864
+(balance,1) (duration,9) (poutcome,unknown) (loan,no) 0.07188675 0.31076923
+(duration,2) (housing,no) (poutcome,unknown) (loan,no) 0.05065251 0.0349345
+(duration,3) (housing,no) (poutcome,unknown) (loan,no) 0.05817297 0.041825093
+(duration,9) (housing,no) (poutcome,unknown) (loan,no) 0.05286441 0.40167364
+(duration,2) (housing,yes) (poutcome,unknown) (loan,no) 0.05684583 0.007782101
+(duration,3) (housing,yes) (poutcome,unknown) (loan,no) 0.06016368 0.014705882
+(duration,9) (housing,yes) (poutcome,unknown) (loan,no) 0.07188675 0.2830769
+*****5项集包含306项*****
+(age,2) (job,management) (education,tertiary) (credit,no) (loan,no) 0.07564698 0.16081871
+(poutcome,unknown) (age,2) (job,management) (education,tertiary) (credit,no) 0.06613581 0.12374582
+(poutcome,unknown) (age,2) (job,management) (education,tertiary) (loan,no) 0.05927892 0.13059701
+(balance,1) (age,2) (job,management) (credit,no) (loan,no) 0.05109489 0.12987013
+(housing,yes) (age,2) (job,management) (credit,no) (loan,no) 0.05065251 0.12663755
+(poutcome,unknown) (age,2) (job,management) (credit,no) (loan,no) 0.06812652 0.116883114
+(housing,yes) (age,2) (job,blue-collar) (credit,no) (loan,no) 0.05706702 0.07364341
+(housing,yes) (poutcome,unknown) (age,2) (job,blue-collar) (credit,no) 0.05640345 0.06666667
+(poutcome,unknown) (age,2) (job,blue-collar) (credit,no) (loan,no) 0.05839416 0.07954545
+(poutcome,unknown) (age,2) (job,technician) (credit,no) (loan,no) 0.0530856 0.083333336
+(balance,1) (age,2) (education,secondary) (credit,no) (marital,married) 0.07454103 0.0652819
+(housing,yes) (age,2) (education,secondary) (credit,no) (marital,married) 0.09157266 0.055555556
+(age,2) (education,secondary) (credit,no) (loan,no) (marital,married) 0.09577527 0.073903
+(poutcome,unknown) (age,2) (education,secondary) (credit,no) (marital,married) 0.09776598 0.047511313
+(balance,1) (housing,yes) (age,2) (education,secondary) (marital,married) 0.05662464 0.05859375
+(balance,1) (age,2) (education,secondary) (loan,no) (marital,married) 0.05839416 0.07575758
+(balance,1) (poutcome,unknown) (age,2) (education,secondary) (marital,married) 0.06281796 0.049295776
+(housing,yes) (age,2) (education,secondary) (loan,no) (marital,married) 0.07343508 0.063253015
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) (marital,married) 0.0752046 0.047058824
+(poutcome,unknown) (age,2) (education,secondary) (loan,no) (marital,married) 0.07830126 0.050847456
+(age,2) (education,tertiary) (credit,no) (loan,no) (marital,married) 0.06259677 0.17314488
+(poutcome,unknown) (age,2) (education,tertiary) (credit,no) (marital,married) 0.05684583 0.11673152
+(balance,1) (housing,yes) (age,2) (credit,no) (marital,married) 0.09422694 0.06338028
+(balance,1) (age,2) (credit,no) (loan,no) (marital,married) 0.11258571 0.08840864
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (marital,married) 0.1128069 0.05490196
+(housing,no) (age,2) (credit,no) (loan,no) (marital,married) 0.06126963 0.14079422
+(housing,no) (poutcome,unknown) (age,2) (credit,no) (marital,married) 0.057951782 0.07633588
+(housing,yes) (age,2) (credit,no) (loan,no) (marital,married) 0.12519354 0.088339224
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (marital,married) 0.1238664 0.06428572
+(poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,married) 0.14996682 0.076696165
+(balance,1) (housing,yes) (age,2) (loan,no) (marital,married) 0.07631055 0.072463766
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (marital,married) 0.07653174 0.049132947
+(balance,1) (poutcome,unknown) (age,2) (loan,no) (marital,married) 0.09245742 0.0645933
+(housing,no) (poutcome,unknown) (age,2) (loan,no) (marital,married) 0.050431322 0.083333336
+(housing,yes) (poutcome,unknown) (age,2) (loan,no) (marital,married) 0.10064145 0.072527476
+(age,2) (education,secondary) (credit,no) (loan,no) (marital,single) 0.05618226 0.11023622
+(poutcome,unknown) (age,2) (education,secondary) (credit,no) (marital,single) 0.05242203 0.088607594
+(age,2) (education,tertiary) (credit,no) (loan,no) (marital,single) 0.05596107 0.13043478
+(balance,1) (age,2) (credit,no) (loan,no) (marital,single) 0.07321389 0.10876133
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (marital,single) 0.06746295 0.101639345
+(housing,no) (age,2) (credit,no) (loan,no) (marital,single) 0.05352798 0.14876033
+(housing,no) (poutcome,unknown) (age,2) (credit,no) (marital,single) 0.053306792 0.112033196
+(housing,yes) (age,2) (credit,no) (loan,no) (marital,single) 0.06746295 0.08852459
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (marital,single) 0.05573988 0.09126984
+(poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,single) 0.09555408 0.1087963
+(balance,1) (poutcome,unknown) (age,2) (loan,no) (marital,single) 0.06038487 0.113553114
+(housing,yes) (poutcome,unknown) (age,2) (loan,no) (marital,single) 0.05021013 0.0969163
+(balance,1) (housing,yes) (age,2) (credit,no) (education,secondary) 0.08604291 0.07197943
+(balance,1) (age,2) (credit,no) (education,secondary) (loan,no) 0.10329573 0.085653104
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (education,secondary) 0.10418049 0.05944798
+(housing,no) (age,2) (credit,no) (education,secondary) (loan,no) 0.050431322 0.114035085
+(housing,no) (poutcome,unknown) (age,2) (credit,no) (education,secondary) 0.05397036 0.06967213
+(housing,yes) (age,2) (credit,no) (education,secondary) (loan,no) 0.11855784 0.07649254
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (education,secondary) 0.1128069 0.056862745
+(poutcome,unknown) (age,2) (credit,no) (education,secondary) (loan,no) 0.13625304 0.06818182
+(balance,1) (housing,yes) (age,2) (education,secondary) (loan,no) 0.0707808 0.084375
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (education,secondary) 0.067684144 0.062091503
+(balance,1) (poutcome,unknown) (age,2) (education,secondary) (loan,no) 0.08537934 0.07512953
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) (loan,no) 0.09400575 0.065882355
+(balance,1) (age,2) (credit,no) (education,tertiary) (loan,no) 0.07454103 0.13946587
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (education,tertiary) 0.06746295 0.11147541
+(housing,no) (age,2) (credit,no) (education,tertiary) (loan,no) 0.060606062 0.17153284
+(housing,no) (poutcome,unknown) (age,2) (credit,no) (education,tertiary) 0.0552975 0.124
+(housing,yes) (age,2) (credit,no) (education,tertiary) (loan,no) 0.06657819 0.13621262
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (education,tertiary) 0.05861535 0.116981134
+(poutcome,unknown) (age,2) (credit,no) (education,tertiary) (loan,no) 0.0995355 0.12888889
+(balance,1) (poutcome,unknown) (age,2) (education,tertiary) (loan,no) 0.059721302 0.12222222
+(housing,no) (poutcome,unknown) (age,2) (education,tertiary) (loan,no) 0.05065251 0.13537118
+(housing,yes) (poutcome,unknown) (age,2) (education,tertiary) (loan,no) 0.050431322 0.12280702
+(balance,1) (housing,no) (age,2) (credit,no) (loan,no) 0.07918602 0.12290503
+(balance,1) (housing,no) (poutcome,unknown) (age,2) (credit,no) 0.08095554 0.08196721
+(balance,1) (housing,yes) (age,2) (credit,no) (loan,no) 0.12519354 0.08657244
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (credit,no) 0.11678832 0.06818182
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.16522893 0.084337346
+(housing,no) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.10506525 0.10315789
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.16390179 0.08232119
+(duration,9) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.05131608 0.31465518
+(balance,1) (housing,no) (poutcome,unknown) (age,2) (loan,no) 0.07055961 0.10031348
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (loan,no) 0.097323604 0.07727273
+(age,4) (education,secondary) (credit,no) (loan,no) (marital,married) 0.050431322 0.10526316
+(poutcome,unknown) (age,4) (education,secondary) (credit,no) (marital,married) 0.0530856 0.045833334
+(balance,1) (age,4) (credit,no) (loan,no) (marital,married) 0.06746295 0.08196721
+(balance,1) (poutcome,unknown) (age,4) (credit,no) (marital,married) 0.06790533 0.048859935
+(housing,no) (age,4) (credit,no) (loan,no) (marital,married) 0.06613581 0.13043478
+(housing,no) (poutcome,unknown) (age,4) (credit,no) (marital,married) 0.07166556 0.06790123
+(housing,yes) (age,4) (credit,no) (loan,no) (marital,married) 0.0508737 0.052173913
+(poutcome,unknown) (age,4) (credit,no) (loan,no) (marital,married) 0.096217655 0.062068965
+(balance,1) (poutcome,unknown) (age,4) (loan,no) (marital,married) 0.05551869 0.05179283
+(housing,no) (poutcome,unknown) (age,4) (loan,no) (marital,married) 0.05618226 0.07874016
+(poutcome,unknown) (age,4) (credit,no) (education,secondary) (loan,no) 0.05153727 0.06866953
+(balance,1) (housing,no) (poutcome,unknown) (age,4) (credit,no) 0.053306792 0.05394191
+(balance,1) (poutcome,unknown) (age,4) (credit,no) (loan,no) 0.07011723 0.059936907
+(housing,no) (poutcome,unknown) (age,4) (credit,no) (loan,no) 0.06967485 0.08888889
+(housing,yes) (poutcome,unknown) (age,4) (credit,no) (loan,no) 0.0552975 0.048
+(balance,1) (age,3) (education,secondary) (credit,no) (marital,married) 0.05242203 0.09704641
+(housing,yes) (age,3) (education,secondary) (credit,no) (marital,married) 0.06348153 0.087108016
+(age,3) (education,secondary) (credit,no) (loan,no) (marital,married) 0.07808007 0.11048159
+(poutcome,unknown) (age,3) (education,secondary) (credit,no) (marital,married) 0.07918602 0.075418994
+(housing,yes) (age,3) (education,secondary) (loan,no) (marital,married) 0.05197965 0.089361705
+(housing,yes) (poutcome,unknown) (age,3) (education,secondary) (marital,married) 0.05197965 0.06382979
+(poutcome,unknown) (age,3) (education,secondary) (loan,no) (marital,married) 0.06657819 0.07641196
+(balance,1) (housing,yes) (age,3) (credit,no) (marital,married) 0.06348153 0.05574913
+(balance,1) (age,3) (credit,no) (loan,no) (marital,married) 0.08537934 0.07772021
+(balance,1) (poutcome,unknown) (age,3) (credit,no) (marital,married) 0.08692767 0.055979643
+(housing,no) (age,3) (credit,no) (loan,no) (marital,married) 0.0619332 0.114285715
+(housing,no) (poutcome,unknown) (age,3) (credit,no) (marital,married) 0.06348153 0.080139376
+(housing,yes) (age,3) (credit,no) (loan,no) (marital,married) 0.09533289 0.07656612
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) (marital,married) 0.09400575 0.06117647
+(poutcome,unknown) (age,3) (credit,no) (loan,no) (marital,married) 0.13381995 0.07272727
+(balance,1) (housing,yes) (age,3) (loan,no) (marital,married) 0.05153727 0.060085837
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) (marital,married) 0.05242203 0.042194095
+(balance,1) (poutcome,unknown) (age,3) (loan,no) (marital,married) 0.07255032 0.06097561
+(housing,no) (poutcome,unknown) (age,3) (loan,no) (marital,married) 0.05618226 0.08661418
+(housing,yes) (poutcome,unknown) (age,3) (loan,no) (marital,married) 0.0796284 0.06111111
+(balance,1) (age,3) (credit,no) (education,secondary) (loan,no) 0.05994249 0.11808118
+(balance,1) (poutcome,unknown) (age,3) (credit,no) (education,secondary) 0.059721302 0.085185185
+(housing,yes) (age,3) (credit,no) (education,secondary) (loan,no) 0.07122318 0.096273296
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) (education,secondary) 0.06901128 0.070512824
+(poutcome,unknown) (age,3) (credit,no) (education,secondary) (loan,no) 0.09046671 0.09290954
+(housing,yes) (poutcome,unknown) (age,3) (education,secondary) (loan,no) 0.05773059 0.07279693
+(poutcome,unknown) (age,3) (credit,no) (education,tertiary) (loan,no) 0.05197965 0.09361702
+(balance,1) (housing,no) (age,3) (credit,no) (loan,no) 0.05175846 0.102564104
+(balance,1) (housing,no) (poutcome,unknown) (age,3) (credit,no) 0.05220084 0.08050848
+(balance,1) (housing,yes) (age,3) (credit,no) (loan,no) 0.07144437 0.07739938
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) (credit,no) 0.06923247 0.057507988
+(balance,1) (poutcome,unknown) (age,3) (credit,no) (loan,no) 0.10263216 0.073275864
+(housing,no) (poutcome,unknown) (age,3) (credit,no) (loan,no) 0.07918602 0.108938545
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) (loan,no) 0.106613584 0.07261411
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) (loan,no) 0.057951782 0.0648855
+(poutcome,unknown) (age,1) (credit,no) (loan,no) (marital,single) 0.05021013 0.13656388
+(poutcome,unknown) (job,services) (credit,no) (education,secondary) (loan,no) 0.05286441 0.07949791
+(job,management) (education,tertiary) (credit,no) (loan,no) (marital,married) 0.08250387 0.15013404
+(poutcome,unknown) (job,management) (education,tertiary) (credit,no) (marital,married) 0.078743644 0.11516854
+(poutcome,unknown) (job,management) (education,tertiary) (loan,no) (marital,married) 0.06812652 0.12012987
+(balance,1) (job,management) (credit,no) (loan,no) (marital,married) 0.053306792 0.12033195
+(balance,1) (poutcome,unknown) (job,management) (credit,no) (marital,married) 0.05109489 0.07359307
+(housing,yes) (job,management) (credit,no) (loan,no) (marital,married) 0.05728821 0.12741312
+(housing,yes) (poutcome,unknown) (job,management) (credit,no) (marital,married) 0.05131608 0.094827585
+(poutcome,unknown) (job,management) (credit,no) (loan,no) (marital,married) 0.08737005 0.10632911
+(balance,1) (job,management) (credit,no) (education,tertiary) (loan,no) 0.08316744 0.14095744
+(balance,1) (poutcome,unknown) (job,management) (credit,no) (education,tertiary) 0.07631055 0.09855072
+(housing,no) (job,management) (credit,no) (education,tertiary) (loan,no) 0.0752046 0.18235295
+(housing,no) (poutcome,unknown) (job,management) (credit,no) (education,tertiary) 0.072329134 0.12538226
+(housing,yes) (job,management) (credit,no) (education,tertiary) (loan,no) 0.0752046 0.12352941
+(housing,yes) (poutcome,unknown) (job,management) (credit,no) (education,tertiary) 0.064808674 0.105802044
+(poutcome,unknown) (job,management) (credit,no) (education,tertiary) (loan,no) 0.11877903 0.12290503
+(balance,1) (poutcome,unknown) (job,management) (education,tertiary) (loan,no) 0.06657819 0.10631229
+(housing,no) (poutcome,unknown) (job,management) (education,tertiary) (loan,no) 0.063039154 0.14035088
+(housing,yes) (poutcome,unknown) (job,management) (education,tertiary) (loan,no) 0.05684583 0.101167314
+(balance,1) (housing,no) (poutcome,unknown) (job,management) (credit,no) 0.05021013 0.09251101
+(balance,1) (housing,yes) (job,management) (credit,no) (loan,no) 0.05264322 0.09243698
+(balance,1) (poutcome,unknown) (job,management) (credit,no) (loan,no) 0.08272506 0.09090909
+(housing,no) (poutcome,unknown) (job,management) (credit,no) (loan,no) 0.07476222 0.1331361
+(housing,yes) (poutcome,unknown) (job,management) (credit,no) (loan,no) 0.07454103 0.089020774
+(job,blue-collar) (education,primary) (credit,no) (loan,no) (marital,married) 0.053306792 0.029045643
+(poutcome,unknown) (job,blue-collar) (education,primary) (credit,no) (marital,married) 0.05286441 0.020920502
+(housing,yes) (job,blue-collar) (education,secondary) (credit,no) (marital,married) 0.066357 0.06
+(job,blue-collar) (education,secondary) (credit,no) (loan,no) (marital,married) 0.06702057 0.0660066
+(poutcome,unknown) (job,blue-collar) (education,secondary) (credit,no) (marital,married) 0.06812652 0.051948052
+(housing,yes) (job,blue-collar) (education,secondary) (loan,no) (marital,married) 0.0552975 0.064
+(housing,yes) (poutcome,unknown) (job,blue-collar) (education,secondary) (marital,married) 0.05463393 0.04453441
+(poutcome,unknown) (job,blue-collar) (education,secondary) (loan,no) (marital,married) 0.05573988 0.055555556
+(balance,1) (housing,yes) (job,blue-collar) (credit,no) (marital,married) 0.06879009 0.028938906
+(balance,1) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.075868174 0.029154519
+(balance,1) (poutcome,unknown) (job,blue-collar) (credit,no) (marital,married) 0.075868174 0.020408163
+(housing,yes) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.096217655 0.048275862
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (marital,married) 0.092678614 0.040572792
+(poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.105507635 0.044025157
+(balance,1) (housing,yes) (job,blue-collar) (loan,no) (marital,married) 0.0575094 0.026923077
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) (marital,married) 0.05640345 0.019607844
+(balance,1) (poutcome,unknown) (job,blue-collar) (loan,no) (marital,married) 0.06259677 0.024734983
+(housing,yes) (poutcome,unknown) (job,blue-collar) (loan,no) (marital,married) 0.07918602 0.044692736
+(poutcome,unknown) (job,blue-collar) (credit,no) (education,primary) (loan,no) 0.05861535 0.04528302
+(balance,1) (housing,yes) (job,blue-collar) (credit,no) (education,secondary) 0.05131608 0.06896552
+(balance,1) (job,blue-collar) (credit,no) (education,secondary) (loan,no) 0.05463393 0.072874494
+(balance,1) (poutcome,unknown) (job,blue-collar) (credit,no) (education,secondary) 0.05573988 0.06746032
+(housing,yes) (job,blue-collar) (credit,no) (education,secondary) (loan,no) 0.07277151 0.079027355
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (education,secondary) 0.07100199 0.05919003
+(poutcome,unknown) (job,blue-collar) (credit,no) (education,secondary) (loan,no) 0.07542579 0.076246336
+(housing,yes) (poutcome,unknown) (job,blue-collar) (education,secondary) (loan,no) 0.05994249 0.06642067
+(balance,1) (housing,yes) (job,blue-collar) (credit,no) (loan,no) 0.0752046 0.04411765
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) 0.072329134 0.036697246
+(balance,1) (poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) 0.083388634 0.0530504
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) 0.10506525 0.06105263
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) (loan,no) 0.060606062 0.04379562
+(job,technician) (education,secondary) (credit,no) (loan,no) (marital,married) 0.05286441 0.10460251
+(poutcome,unknown) (job,technician) (education,secondary) (credit,no) (marital,married) 0.05220084 0.06355932
+(poutcome,unknown) (job,technician) (credit,no) (loan,no) (marital,married) 0.06104844 0.07608695
+(balance,1) (job,technician) (credit,no) (education,secondary) (loan,no) 0.05706702 0.1007752
+(balance,1) (poutcome,unknown) (job,technician) (credit,no) (education,secondary) 0.05573988 0.05952381
+(housing,yes) (job,technician) (credit,no) (education,secondary) (loan,no) 0.05264322 0.0882353
+(poutcome,unknown) (job,technician) (credit,no) (education,secondary) (loan,no) 0.0752046 0.08235294
+(balance,1) (poutcome,unknown) (job,technician) (credit,no) (loan,no) 0.07100199 0.07476635
+(housing,no) (poutcome,unknown) (job,technician) (credit,no) (loan,no) 0.05485512 0.09677419
+(housing,yes) (poutcome,unknown) (job,technician) (credit,no) (loan,no) 0.060606062 0.076642334
+(poutcome,unknown) (job,admin.) (credit,no) (education,secondary) (loan,no) 0.053306792 0.099585064
+(balance,1) (credit,no) (education,primary) (loan,no) (marital,married) 0.05994249 0.073800735
+(balance,1) (poutcome,unknown) (credit,no) (education,primary) (marital,married) 0.060606062 0.06569343
+(housing,yes) (credit,no) (education,primary) (loan,no) (marital,married) 0.05551869 0.05179283
+(housing,yes) (poutcome,unknown) (credit,no) (education,primary) (marital,married) 0.05352798 0.049586777
+(poutcome,unknown) (credit,no) (education,primary) (loan,no) (marital,married) 0.0840522 0.07368421
+(balance,1) (poutcome,unknown) (education,primary) (loan,no) (marital,married) 0.05109489 0.06926407
+(balance,1) (housing,no) (credit,no) (education,secondary) (marital,married) 0.06724176 0.11513158
+(balance,1) (housing,yes) (credit,no) (education,secondary) (marital,married) 0.11789427 0.060037524
+(balance,1) (credit,no) (education,secondary) (loan,no) (marital,married) 0.14797612 0.09118087
+(balance,1) (poutcome,unknown) (credit,no) (education,secondary) (marital,married) 0.1528423 0.05788712
+(housing,no) (credit,no) (education,secondary) (loan,no) (marital,married) 0.08936076 0.15346535
+(housing,no) (poutcome,unknown) (credit,no) (education,secondary) (marital,married) 0.09179385 0.08192771
+(housing,yes) (credit,no) (education,secondary) (loan,no) (marital,married) 0.16235346 0.06948229
+(housing,yes) (poutcome,unknown) (credit,no) (education,secondary) (marital,married) 0.16257465 0.053061225
+(poutcome,unknown) (credit,no) (education,secondary) (loan,no) (marital,married) 0.20526432 0.0700431
+(balance,1) (housing,no) (education,secondary) (loan,no) (marital,married) 0.05441274 0.13821138
+(balance,1) (housing,no) (poutcome,unknown) (education,secondary) (marital,married) 0.05861535 0.079245284
+(balance,1) (housing,yes) (education,secondary) (loan,no) (marital,married) 0.0951117 0.0627907
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) (marital,married) 0.09666003 0.045766592
+(balance,1) (poutcome,unknown) (education,secondary) (loan,no) (marital,married) 0.12320283 0.06642729
+(housing,no) (poutcome,unknown) (education,secondary) (loan,no) (marital,married) 0.07476222 0.09467456
+(housing,yes) (poutcome,unknown) (education,secondary) (loan,no) (marital,married) 0.13381995 0.056198347
+(balance,1) (credit,no) (education,tertiary) (loan,no) (marital,married) 0.07542579 0.11143695
+(balance,1) (poutcome,unknown) (credit,no) (education,tertiary) (marital,married) 0.07166556 0.07716049
+(housing,no) (credit,no) (education,tertiary) (loan,no) (marital,married) 0.072329134 0.14984709
+(housing,no) (poutcome,unknown) (credit,no) (education,tertiary) (marital,married) 0.06834771 0.103559874
+(housing,yes) (credit,no) (education,tertiary) (loan,no) (marital,married) 0.06547224 0.125
+(housing,yes) (poutcome,unknown) (credit,no) (education,tertiary) (marital,married) 0.06215439 0.09608541
+(poutcome,unknown) (credit,no) (education,tertiary) (loan,no) (marital,married) 0.11192214 0.10671937
+(balance,1) (poutcome,unknown) (education,tertiary) (loan,no) (marital,married) 0.06149082 0.08273381
+(housing,no) (poutcome,unknown) (education,tertiary) (loan,no) (marital,married) 0.060606062 0.11313868
+(housing,yes) (poutcome,unknown) (education,tertiary) (loan,no) (marital,married) 0.05197965 0.09787234
+(balance,2) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.057951782 0.08778626
+(balance,1) (housing,no) (credit,no) (loan,no) (marital,married) 0.12806901 0.1312608
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (marital,married) 0.1282902 0.08103448
+(balance,1) (housing,yes) (credit,no) (loan,no) (marital,married) 0.16943154 0.06266318
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (marital,married) 0.16744083 0.048877146
+(balance,1) (duration,2) (credit,no) (loan,no) (marital,married) 0.05197965 0.012765957
+(balance,1) (duration,3) (credit,no) (loan,no) (marital,married) 0.0508737 0.017391304
+(balance,1) (duration,9) (credit,no) (loan,no) (marital,married) 0.05131608 0.28879312
+(balance,1) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.24397257 0.06980961
+(balance,1) (poutcome,unknown) (credit,no) (loan,yes) (marital,married) 0.05175846 0.02991453
+(balance,1) (duration,2) (poutcome,unknown) (credit,no) (marital,married) 0.0530856 0.0125
+(balance,1) (duration,3) (poutcome,unknown) (credit,no) (marital,married) 0.0508737 0.008695652
+(balance,1) (duration,9) (poutcome,unknown) (credit,no) (marital,married) 0.050431322 0.23245615
+(housing,no) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.18292414 0.09915357
+(duration,9) (housing,yes) (credit,no) (loan,no) (marital,married) 0.05197965 0.2638298
+(housing,yes) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.23711568 0.06623134
+(duration,9) (housing,yes) (poutcome,unknown) (credit,no) (marital,married) 0.05220084 0.22881356
+(duration,2) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.06436629 0.013745705
+(duration,4) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.05352798 0.016528925
+(duration,3) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.07210794 0.015337423
+(duration,9) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.07122318 0.27018633
+(balance,1) (housing,no) (poutcome,unknown) (loan,no) (marital,married) 0.10794072 0.09016393
+(balance,1) (housing,yes) (poutcome,unknown) (loan,no) (marital,married) 0.13802256 0.052884616
+(balance,1) (credit,no) (education,secondary) (loan,no) (marital,single) 0.06989604 0.1329114
+(balance,1) (poutcome,unknown) (credit,no) (education,secondary) (marital,single) 0.06746295 0.12131148
+(housing,yes) (credit,no) (education,secondary) (loan,no) (marital,single) 0.06458748 0.10958904
+(housing,yes) (poutcome,unknown) (credit,no) (education,secondary) (marital,single) 0.0575094 0.08461539
+(poutcome,unknown) (credit,no) (education,secondary) (loan,no) (marital,single) 0.09002433 0.11793612
+(balance,1) (poutcome,unknown) (education,secondary) (loan,no) (marital,single) 0.05839416 0.13257575
+(housing,yes) (poutcome,unknown) (education,secondary) (loan,no) (marital,single) 0.0508737 0.09565217
+(balance,1) (credit,no) (education,tertiary) (loan,no) (marital,single) 0.05220084 0.16525424
+(poutcome,unknown) (credit,no) (education,tertiary) (loan,no) (marital,single) 0.07033842 0.13522013
+(balance,1) (housing,no) (credit,no) (loan,no) (marital,single) 0.06702057 0.16831683
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (marital,single) 0.06657819 0.12624584
+(balance,1) (housing,yes) (credit,no) (loan,no) (marital,single) 0.06834771 0.106796116
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (marital,single) 0.06082725 0.10181818
+(balance,1) (poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.10993143 0.12072434
+(housing,no) (poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.08891838 0.1517413
+(housing,yes) (poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.09179385 0.0939759
+(balance,1) (housing,no) (poutcome,unknown) (loan,no) (marital,single) 0.05861535 0.13584906
+(balance,1) (housing,yes) (poutcome,unknown) (loan,no) (marital,single) 0.053306792 0.10788382
+(balance,1) (poutcome,unknown) (education,primary) (credit,no) (loan,no) 0.0641451 0.07931034
+(housing,yes) (poutcome,unknown) (education,primary) (credit,no) (loan,no) 0.06038487 0.07326008
+(balance,1) (housing,no) (education,secondary) (credit,no) (loan,no) 0.09643884 0.14678898
+(balance,1) (housing,no) (poutcome,unknown) (education,secondary) (credit,no) 0.10418049 0.09766454
+(balance,1) (housing,yes) (education,secondary) (credit,no) (loan,no) 0.15018801 0.082474224
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) (credit,no) 0.14510064 0.06402439
+(balance,1) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.2012829 0.08901099
+(housing,no) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.12873258 0.12371134
+(duration,9) (housing,yes) (education,secondary) (credit,no) (loan,no) 0.050431322 0.27192983
+(housing,yes) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.20504314 0.067961164
+(duration,2) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.050431322 0.013157895
+(duration,3) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.054191552 0.024489796
+(duration,9) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) 0.06215439 0.2846975
+(balance,1) (housing,no) (poutcome,unknown) (education,secondary) (loan,no) 0.0840522 0.1131579
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) (loan,no) 0.12032736 0.073529415
+(balance,1) (housing,no) (education,tertiary) (credit,no) (loan,no) 0.07808007 0.15864022
+(balance,1) (housing,no) (poutcome,unknown) (education,tertiary) (credit,no) 0.07343508 0.10240964
+(balance,1) (housing,yes) (education,tertiary) (credit,no) (loan,no) 0.06724176 0.1118421
+(balance,1) (housing,yes) (poutcome,unknown) (education,tertiary) (credit,no) 0.06149082 0.097122304
+(balance,1) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) 0.11634594 0.10836502
+(housing,no) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) 0.11081619 0.13772455
+(housing,yes) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) 0.09334218 0.101895735
+(balance,1) (housing,no) (poutcome,unknown) (education,tertiary) (loan,no) 0.06569343 0.11784512
+(balance,1) (housing,yes) (poutcome,unknown) (education,tertiary) (loan,no) 0.05197965 0.09787234
+(balance,2) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.05463393 0.060728744
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (loan,no) 0.18712674 0.10992908
+(balance,1) (duration,9) (housing,yes) (credit,no) (loan,no) 0.0508737 0.2826087
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.21366954 0.072463766
+(balance,1) (duration,2) (poutcome,unknown) (credit,no) (loan,no) 0.06834771 0.025889968
+(balance,1) (duration,3) (poutcome,unknown) (credit,no) (loan,no) 0.07387746 0.023952097
+(balance,1) (duration,9) (poutcome,unknown) (credit,no) (loan,no) 0.07100199 0.30529594
+(duration,2) (housing,no) (poutcome,unknown) (credit,no) (loan,no) 0.05021013 0.03524229
+(duration,3) (housing,no) (poutcome,unknown) (credit,no) (loan,no) 0.0575094 0.042307694
+(duration,9) (housing,no) (poutcome,unknown) (credit,no) (loan,no) 0.05197965 0.39148936
+(duration,2) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.05551869 0.007968128
+(duration,3) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.058836542 0.015037594
+(duration,9) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) 0.07055961 0.28213167
+*****6项集包含68项*****
+(poutcome,unknown) (age,2) (job,management) (credit,no) (education,tertiary) (loan,no) 0.05839416 0.13257575
+(balance,1) (housing,yes) (age,2) (credit,no) (education,secondary) (marital,married) 0.05618226 0.05905512
+(balance,1) (age,2) (credit,no) (education,secondary) (loan,no) (marital,married) 0.057951782 0.07633588
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (education,secondary) (marital,married) 0.0619332 0.05
+(housing,yes) (age,2) (credit,no) (education,secondary) (loan,no) (marital,married) 0.07277151 0.060790274
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (education,secondary) (marital,married) 0.07431984 0.04761905
+(poutcome,unknown) (age,2) (credit,no) (education,secondary) (loan,no) (marital,married) 0.07763769 0.051282052
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) (loan,no) (marital,married) 0.05950011 0.05204461
+(balance,1) (housing,yes) (age,2) (credit,no) (loan,no) (marital,married) 0.075868174 0.072886296
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (credit,no) (marital,married) 0.075868174 0.04956268
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,married) 0.09179385 0.06506024
+(housing,yes) (poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,married) 0.09997788 0.07300885
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (loan,no) (marital,married) 0.06104844 0.057971016
+(balance,1) (poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,single) 0.05861535 0.109433964
+(balance,1) (housing,yes) (age,2) (education,secondary) (credit,no) (loan,no) 0.07011723 0.08201893
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (education,secondary) (credit,no) 0.06657819 0.059800666
+(balance,1) (poutcome,unknown) (age,2) (education,secondary) (credit,no) (loan,no) 0.08360982 0.071428575
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) (credit,no) (loan,no) 0.092678614 0.06443914
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (education,secondary) (loan,no) 0.05463393 0.072874494
+(balance,1) (poutcome,unknown) (age,2) (education,tertiary) (credit,no) (loan,no) 0.058836542 0.120300755
+(balance,1) (housing,no) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.06901128 0.09615385
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (credit,no) (loan,no) 0.096217655 0.07586207
+(balance,1) (poutcome,unknown) (age,4) (credit,no) (loan,no) (marital,married) 0.055076312 0.052208837
+(housing,no) (poutcome,unknown) (age,4) (credit,no) (loan,no) (marital,married) 0.05573988 0.07539683
+(housing,yes) (age,3) (credit,no) (education,secondary) (loan,no) (marital,married) 0.05131608 0.09051724
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) (education,secondary) (marital,married) 0.05109489 0.064935066
+(poutcome,unknown) (age,3) (credit,no) (education,secondary) (loan,no) (marital,married) 0.06525105 0.0779661
+(balance,1) (housing,yes) (age,3) (credit,no) (loan,no) (marital,married) 0.05109489 0.060606062
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) (credit,no) (marital,married) 0.05175846 0.042735044
+(balance,1) (poutcome,unknown) (age,3) (credit,no) (loan,no) (marital,married) 0.07188675 0.06153846
+(housing,no) (poutcome,unknown) (age,3) (credit,no) (loan,no) (marital,married) 0.05551869 0.087649405
+(housing,yes) (poutcome,unknown) (age,3) (credit,no) (loan,no) (marital,married) 0.07830126 0.06214689
+(housing,yes) (poutcome,unknown) (age,3) (education,secondary) (credit,no) (loan,no) 0.05684583 0.07392996
+(balance,1) (housing,yes) (poutcome,unknown) (age,3) (credit,no) (loan,no) 0.05728821 0.06563707
+(poutcome,unknown) (job,management) (credit,no) (education,tertiary) (loan,no) (marital,married) 0.067684144 0.12091503
+(balance,1) (poutcome,unknown) (job,management) (education,tertiary) (credit,no) (loan,no) 0.06613581 0.10702341
+(housing,no) (poutcome,unknown) (job,management) (education,tertiary) (credit,no) (loan,no) 0.06259677 0.14134276
+(housing,yes) (poutcome,unknown) (job,management) (education,tertiary) (credit,no) (loan,no) 0.05618226 0.10236221
+(housing,yes) (job,blue-collar) (credit,no) (education,secondary) (loan,no) (marital,married) 0.05463393 0.060728744
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (education,secondary) (marital,married) 0.054191552 0.04489796
+(poutcome,unknown) (job,blue-collar) (credit,no) (education,secondary) (loan,no) (marital,married) 0.0552975 0.056
+(balance,1) (housing,yes) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.05728821 0.027027028
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (marital,married) 0.05618226 0.01968504
+(balance,1) (poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.06237558 0.024822695
+(housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) (marital,married) 0.07808007 0.04532578
+(housing,yes) (poutcome,unknown) (job,blue-collar) (education,secondary) (credit,no) (loan,no) 0.058836542 0.06390978
+(balance,1) (housing,yes) (poutcome,unknown) (job,blue-collar) (credit,no) (loan,no) 0.05994249 0.040590405
+(balance,1) (poutcome,unknown) (education,primary) (credit,no) (loan,no) (marital,married) 0.0508737 0.069565214
+(balance,1) (housing,no) (education,secondary) (credit,no) (loan,no) (marital,married) 0.05374917 0.1399177
+(balance,1) (housing,no) (poutcome,unknown) (education,secondary) (credit,no) (marital,married) 0.05728821 0.077220075
+(balance,1) (housing,yes) (education,secondary) (credit,no) (loan,no) (marital,married) 0.09422694 0.06338028
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) (credit,no) (marital,married) 0.09555408 0.046296295
+(balance,1) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) (marital,married) 0.1216545 0.06727273
+(housing,no) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) (marital,married) 0.07343508 0.09337349
+(housing,yes) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) (marital,married) 0.13182925 0.05704698
+(balance,1) (housing,yes) (poutcome,unknown) (education,secondary) (loan,no) (marital,married) 0.07763769 0.051282052
+(balance,1) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) (marital,married) 0.06126963 0.08303249
+(housing,no) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) (marital,married) 0.06038487 0.113553114
+(housing,yes) (poutcome,unknown) (education,tertiary) (credit,no) (loan,no) (marital,married) 0.05153727 0.098712444
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.10727715 0.09072165
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) (marital,married) 0.13669541 0.053398058
+(balance,1) (poutcome,unknown) (education,secondary) (credit,no) (loan,no) (marital,single) 0.05706702 0.12790698
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.05728821 0.13513513
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (loan,no) (marital,single) 0.05264322 0.10504202
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (education,secondary) (loan,no) 0.08228268 0.11290322
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (education,secondary) (loan,no) 0.11900022 0.07249071
+(balance,1) (housing,no) (poutcome,unknown) (credit,no) (education,tertiary) (loan,no) 0.06502986 0.11564626
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (education,tertiary) (loan,no) 0.05131608 0.09913793
+*****7项集包含4项*****
+(housing,yes) (poutcome,unknown) (age,2) (education,secondary) (credit,no) (loan,no) (marital,married) 0.05905773 0.052434456
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (credit,no) (loan,no) (marital,married) 0.060606062 0.05839416
+(balance,1) (housing,yes) (poutcome,unknown) (age,2) (credit,no) (education,secondary) (loan,no) 0.05397036 0.06967213
+(balance,1) (housing,yes) (poutcome,unknown) (credit,no) (education,secondary) (loan,no) (marital,married) 0.07675293 0.0518732
+*****8项集包含0项*****
+*****9项集包含0项*****
+*****10项集包含0项*****
