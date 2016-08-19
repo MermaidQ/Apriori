@@ -2,13 +2,7 @@ package com.qiuzi.gtja.entity;
 
 public class User {
 	private int id;
-	public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
+	
     private String age;
 	private String job;
 	private String marital;
@@ -20,11 +14,28 @@ public class User {
 	private String duration;
 	private String poutcome;
 	private String y;
-	
-	public void print(){
-		
-	}
-	
+
+    private int purchaseAmount;
+    private float purchaseSum;
+    
+	public int getPurchaseAmount() {
+        return purchaseAmount;
+    }
+    public float getPurchaseSum() {
+        return purchaseSum;
+    }
+    public void setPurchaseAmount(int purchaseAmount) {
+        this.purchaseAmount = purchaseAmount;
+    }
+    public void setPurchaseSum(float purchaseSum) {
+        this.purchaseSum = purchaseSum;
+    }
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
+    }
 	public String getAge() {
 		return age;
 	}

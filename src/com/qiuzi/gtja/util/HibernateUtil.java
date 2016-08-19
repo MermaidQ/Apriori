@@ -99,9 +99,10 @@ public class HibernateUtil {
     /**
      * @param c
      * @param obj
-     *            查询一条数据根据主键的id号
+     *            根据主键的id号查询一条数据
      * @return
      */
+    @SuppressWarnings("rawtypes")
     public static Object get(Class c, int obj) {
         Session session = null;
         Object object = null;
@@ -156,33 +157,6 @@ public class HibernateUtil {
      * @return
      */
     @SuppressWarnings("unchecked")
-    public static <T> List<List<T>> query(List<String> sql, String[] param) {
-
-        List<List<T>> resultList = new ArrayList<List<T>>();
-        Session session = null;
-        try {
-            session = getSession();
-            for (String s : sql) {
-
-                List<T> list = new ArrayList<T>();
-                Query query = session.createSQLQuery(s);
-                if (param != null) {
-                    for (int i = 0; i < param.length; i++) {
-                        query.setString(i, param[i]);
-                    }
-                }
-                list = query.list();
-                resultList.add(list);
-            }
-        } catch (Exception e) {
-        } finally {
-            if (session != null) {
-                session.close();
-            }
-        }
-        return resultList;
-    }
-
     public static <T> List<T> query(String sql, String[] param) {
 
         List<T> list = new ArrayList<T>();
@@ -196,9 +170,7 @@ public class HibernateUtil {
                 }
             }
             list = query.list();
-        } catch (
-
-        Exception e) {
+        } catch (Exception e) {
         } finally {
             if (session != null) {
                 session.close();

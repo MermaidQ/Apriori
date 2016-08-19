@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.39-bin.jar"/>
 	<classpathentry kind="lib" path="libs/jxl.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hadoop"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

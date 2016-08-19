@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import com.qiuzi.gtja.entity.ParamSetObject;
 import com.qiuzi.gtja.entity.User;
@@ -29,7 +30,7 @@ public class FileUtil {
      * @param line:��ǰ������
      * @return ���ݵ�ǰ�����ݷ�װ�Ķ���
      */
-    public User getUser(String line) {
+    public static User getUser(String line) {
 
         User user = new User();
 
@@ -50,7 +51,7 @@ public class FileUtil {
     }
 
     // ���ļ������ļ��е����ݰ��зֿ�����list����
-    public List<String> readFile(String filePath) {
+    public static List<String> readFile(String filePath) {
 
         List<String> list = new ArrayList<String>();
 
@@ -83,10 +84,11 @@ public class FileUtil {
     /**
      * ��excel�ļ�
      * 
-     * @param filePath���ļ�·��
+     * @param filePath:文档所在位置
+     * @param randomValue:是否需要产生随机数，否为false，是为true
      * @return ����user�����б�
      */
-    public List<User> readCsvFile(String filePath) {
+    public  static List<User> readCsvFile(String filePath, boolean randomValue) {
 
         List<User> userList = new ArrayList<User>();
 
@@ -113,9 +115,13 @@ public class FileUtil {
             try {
                 while ((line = bufferedReader.readLine()) != null) {
                     // System.out.println(line);
-
-                    User user = this.getUser(line);
+                    
+                    User user = getUser(line);
                     if (user != null) {
+                        if(randomValue){
+                            user.setPurchaseAmount((int) (Math.random()*10));
+                            user.setPurchaseSum((float) (Math.random()*200));
+                        }
                         userList.add(user);
                     }
                 }
@@ -166,10 +172,11 @@ public class FileUtil {
                         jxl.write.Number confidence = new jxl.write.Number(2, line, pso.getConfidence());
                         sheet.addCell(confidence);
 
-                        Map<String, String> paramSetObject = pso.getparamSetObject();
+                        Set<String> paramSetObject = pso.getparamSetObject();
                         String item = "";
-                        for (String key : paramSetObject.keySet()) {
-                            item += "(" + key + "," + paramSetObject.get(key) + ") ";
+                        for (String key : paramSetObject) {
+                            String param[] = key.split("=");
+                            item += "(" + param[0] + "," + param[1] + ") ";
                         }
                         Label Item = new Label(0, line++, item);
                         sheet.addCell(Item);
@@ -188,7 +195,7 @@ public class FileUtil {
     }
     
 
-    public void writeTxtFile(String filePath, HashMap<Integer, List<ParamSetObject>> objectList) {
+    public static void writeTxtFile(String filePath, HashMap<Integer, List<ParamSetObject>> objectList) {
 
         try {
             String content = "";
@@ -201,9 +208,10 @@ public class FileUtil {
                         
                         ParamSetObject pso = list.get(j);
                         
-                        Map<String, String> paramSetObject = pso.getparamSetObject();
-                        for (String key : paramSetObject.keySet()) {
-                            content += "(" + key + "," + paramSetObject.get(key) + ") ";
+                        Set<String> paramSetObject = pso.getparamSetObject();
+                        for (String key : paramSetObject) {
+                            String param[] = key.split("=");
+                            content += "(" + param[0] + "," + param[1] + ") ";
                         }
                         content += pso.getSupport() + " ";
                         content += pso.getConfidence();

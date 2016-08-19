@@ -1,36 +1,36 @@
 package com.qiuzi.gtja.entity;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
 
 public class ParamSetObject {
 	
-	private Map<String, String> paramSetObject;
-	private float support;
-	private float confidence;
+	private Set<String> paramSetObject;
+	private double support;
+	private double confidence;
 	
-    public ParamSetObject(Map<String, String> paramSetObject, float support, float confidence) {
+    public ParamSetObject(Set<String> paramSetObject, double support, double confidence) {
         this.paramSetObject = paramSetObject;
         this.support = support;
         this.confidence = confidence;
     }
-    public Map<String, String> getparamSetObject() {
+    public Set<String> getparamSetObject() {
 		return paramSetObject;
 	}
-	public void setparamSetObject(Map<String, String> paramObject) {
+	public void setparamSetObject(Set<String> paramObject) {
 		this.paramSetObject = paramObject;
 	}
-	public static ParamSetObject getParamSetObject(String paramName, String paramValue, float support, float confidence) {
+	public static ParamSetObject getParamSetObject(String paramName, String paramValue, double support, double confidence) {
 	    
-	    Map<String, String> paramObject = new HashMap<String, String>();
-	    paramObject.put(paramName, paramValue);
+	    Set<String> paramObject = new HashSet<String>();
+	    paramObject.add(paramName+"="+paramValue);
 	    
 	    return new ParamSetObject(paramObject, support, confidence);
     }
-	public float getSupport() {
+	public double getSupport() {
         return support;
     }
-    public float getConfidence() {
+    public double getConfidence() {
 		return confidence;
 	}
 }
